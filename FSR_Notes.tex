@@ -1,0 +1,58 @@
+\documentclass{book}
+\usepackage{graphicx} % Required for inserting images
+\usepackage{amsmath}
+\usepackage{amssymb}
+\usepackage{amsthm}
+\usepackage{subcaption}
+\usepackage[export]{adjustbox}
+\usepackage{graphicx}
+\usepackage{tikz}
+\usepackage{makeidx}
+\usepackage{wrapfig}
+\usepackage{multicol,lipsum}
+\usetikzlibrary{arrows.meta}
+\usepackage{hyperref}
+\usepackage[
+backend=biber,
+style=alphabetic,
+sorting=ynt
+]{biblatex}
+\addbibresource{references.bib}
+
+\title{Notes of Field and Service Robotics}
+\author{Carlo Alberto Giacchetti}
+\date{August 2025}
+
+\begin{document}
+\setcounter{secnumdepth}{3}
+\setcounter{tocdepth}{3}
+
+\makeatletter
+\let\oldendproof\endproof
+\def\endproof{\oldendproof\aftergroup\@afterindentfalse\aftergroup\@afterheading}
+
+\newtheorem{theorem}{Theorem}
+\newtheorem{lemma}{Lemma}[section]
+\theoremstyle{definition}
+\newtheorem{definition}{Definition}[section]
+\makeatother
+\maketitle
+\makeatletter
+\renewcommand*\env@matrix[1][\arraystretch]{%
+  \edef\arraystretch{#1}%
+  \hskip -\arraycolsep
+  \let\@ifnextchar\new@ifnextchar
+  \array{*\c@MaxMatrixCols c}}
+\makeatother
+\tableofcontents
+
+\newpage
+\maketitle
+\newpage
+\include{Introduction.tex}	  \newpage
+\include{Wheeled Robots.tex}  \newpage
+\include{Aerial Robotics.tex} \newpage
+\include{Underwater Robotics.tex} \newpage
+\include{Legged Robotics.tex} \newpage             
+\include{Appendix.tex}           
+\end{document}
