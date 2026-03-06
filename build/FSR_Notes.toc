@@ -1,88 +1,90 @@
-\contentsline {chapter}{\numberline {1}Introduction}{7}{chapter.1}%
-\contentsline {section}{\numberline {1.1}Configuration Space and Degrees of Freedom}{8}{section.1.1}%
-\contentsline {subsection}{\numberline {1.1.1}Exercises}{13}{subsection.1.1.1}%
-\contentsline {paragraph}{ProDrone a Six propellers plus two 5-DoFs arms drone:}{13}{figure.caption.8}%
-\contentsline {paragraph}{Mobile Kuka a Mobile manipulator arms robot:}{13}{figure.caption.10}%
-\contentsline {section}{\numberline {1.2}Task space and Workspace}{15}{section.1.2}%
-\contentsline {section}{\numberline {1.3}Underactuation}{16}{section.1.3}%
-\contentsline {section}{\numberline {1.4}Controllability}{17}{section.1.4}%
-\contentsline {chapter}{\numberline {2}Wheeled Robots}{21}{chapter.2}%
-\contentsline {section}{\numberline {2.1}Introduction}{21}{section.2.1}%
-\contentsline {section}{\numberline {2.2}Motion Constraints}{21}{section.2.2}%
-\contentsline {section}{\numberline {2.3}Equations of motion with nonholonomic constraints}{23}{section.2.3}%
-\contentsline {subsection}{\numberline {2.3.1}Examples: Kinematic Models}{25}{subsection.2.3.1}%
-\contentsline {subsubsection}{\numberline {2.3.1.1}Disk rolling on a plane, Unicycle and Differential Drive Robot}{25}{subsubsection.2.3.1.1}%
-\contentsline {subsubsection}{\numberline {2.3.1.2}Bycicle Robot}{26}{subsubsection.2.3.1.2}%
-\contentsline {subsubsection}{\numberline {2.3.1.3}Dynamic Model of the unicycle}{27}{subsubsection.2.3.1.3}%
-\contentsline {section}{\numberline {2.4}Low-level Planning}{28}{section.2.4}%
-\contentsline {subsection}{\numberline {2.4.1}Example: Unicycle}{29}{subsection.2.4.1}%
-\contentsline {subsection}{\numberline {2.4.2}Path Planning and Differential Flatness for the unicycle}{29}{subsection.2.4.2}%
-\contentsline {subsubsection}{\numberline {2.4.2.1}Planning via Cartesian Polynomials}{30}{subsubsection.2.4.2.1}%
-\contentsline {subsection}{\numberline {2.4.3}Optimal Trajectories}{31}{subsection.2.4.3}%
-\contentsline {subsubsection}{\numberline {2.4.3.1}Minimum-Time Trajectories}{32}{subsubsection.2.4.3.1}%
-\contentsline {section}{\numberline {2.5}High-Level Planning}{33}{section.2.5}%
-\contentsline {subsection}{\numberline {2.5.1}Unicycle Trajectory Tracking}{33}{subsection.2.5.1}%
-\contentsline {subsubsection}{\numberline {2.5.1.1}Unicycle Trajectory Tracking: Linearization}{35}{subsubsection.2.5.1.1}%
-\contentsline {subsubsection}{\numberline {2.5.1.2}\textit {Almost} nonlinear control}{36}{subsubsection.2.5.1.2}%
-\contentsline {subsubsection}{\numberline {2.5.1.3}Input-Output Linearization}{37}{subsubsection.2.5.1.3}%
-\contentsline {subsection}{\numberline {2.5.2}Conclusions}{38}{subsection.2.5.2}%
-\contentsline {subsection}{\numberline {2.5.3}Unicycle Regulation}{38}{subsection.2.5.3}%
-\contentsline {subsubsection}{\numberline {2.5.3.1}Cartesian Regulation}{38}{subsubsection.2.5.3.1}%
-\contentsline {subsubsection}{\numberline {2.5.3.2}Posture Regulation}{39}{subsubsection.2.5.3.2}%
-\contentsline {section}{\numberline {2.6}Unicycle Localization}{41}{section.2.6}%
-\contentsline {subsection}{\numberline {2.6.1}Passive Localization}{41}{subsection.2.6.1}%
-\contentsline {chapter}{\numberline {3}Aerial Robotics}{43}{chapter.3}%
-\contentsline {section}{\numberline {3.1}Introduction}{43}{section.3.1}%
-\contentsline {section}{\numberline {3.2}Dynamic Models}{44}{section.3.2}%
-\contentsline {subsection}{\numberline {3.2.1}Introduction: Reference Frames}{44}{subsection.3.2.1}%
-\contentsline {subsection}{\numberline {3.2.2}Inputs}{45}{subsection.3.2.2}%
-\contentsline {subsection}{\numberline {3.2.3}Dynamic Models: non-tilting UAVs}{47}{subsection.3.2.3}%
-\contentsline {subsection}{\numberline {3.2.4}Dynamic Models: tilting UAV}{49}{subsection.3.2.4}%
-\contentsline {subsection}{\numberline {3.2.5}Dynamic Models: Unmanned Aerial Manipulator}{51}{subsection.3.2.5}%
-\contentsline {section}{\numberline {3.3}Control and Flat Outputs}{52}{section.3.3}%
-\contentsline {subsection}{\numberline {3.3.1}Flat Outputs}{52}{subsection.3.3.1}%
-\contentsline {subsection}{\numberline {3.3.2}Hierarchical Controller of a Quadcopter}{53}{subsection.3.3.2}%
-\contentsline {subsection}{\numberline {3.3.3}\textit {Geometric Controller} of a Quadcopter}{55}{subsection.3.3.3}%
-\contentsline {subsection}{\numberline {3.3.4}Estimar-Based Control of a quadcopter}{56}{subsection.3.3.4}%
-\contentsline {subsection}{\numberline {3.3.5}Passivity-Based Controller with Compensation of external wrench}{57}{subsection.3.3.5}%
-\contentsline {section}{\numberline {3.4}Disturbance effects}{59}{section.3.4}%
-\contentsline {subsection}{\numberline {3.4.1}Ground Effect}{59}{subsection.3.4.1}%
-\contentsline {subsection}{\numberline {3.4.2}Ceiling Effect}{60}{subsection.3.4.2}%
-\contentsline {subsection}{\numberline {3.4.3}Wall, Pipe Effects and Flapping Dynamics}{61}{subsection.3.4.3}%
-\contentsline {chapter}{\numberline {4}Underwater Robotics}{63}{chapter.4}%
-\contentsline {section}{\numberline {4.1}Introduction}{63}{section.4.1}%
-\contentsline {section}{\numberline {4.2}Dynamic Model}{64}{section.4.2}%
-\contentsline {subsection}{\numberline {4.2.1}Working in water: currents, buoyancy and added inertia}{64}{subsection.4.2.1}%
-\contentsline {chapter}{\numberline {5}Legged Robotics}{67}{chapter.5}%
-\contentsline {subsection}{\numberline {5.0.1}Introduction}{67}{subsection.5.0.1}%
-\contentsline {subsection}{\numberline {5.0.2}Taxonomy}{67}{subsection.5.0.2}%
-\contentsline {subsection}{\numberline {5.0.3}Dynamic Model}{69}{subsection.5.0.3}%
-\contentsline {subsection}{\numberline {5.0.4}Constrained Consistent Dynamics}{71}{subsection.5.0.4}%
-\contentsline {section}{\numberline {5.1}Balancing}{72}{section.5.1}%
-\contentsline {subsection}{\numberline {5.1.1}Centroidal Dynamics}{72}{subsection.5.1.1}%
-\contentsline {subsection}{\numberline {5.1.2}Complementarity Constraints}{73}{subsection.5.1.2}%
-\contentsline {subsection}{\numberline {5.1.3}Introduction to stability conditions}{73}{subsection.5.1.3}%
-\contentsline {subsubsection}{\numberline {5.1.3.1}Fixed Points}{75}{subsubsection.5.1.3.1}%
-\contentsline {subsubsection}{\numberline {5.1.3.2}Limit Cycles}{75}{subsubsection.5.1.3.2}%
-\contentsline {section}{\numberline {5.2}Control of Legged Robots}{76}{section.5.2}%
-\contentsline {subsection}{\numberline {5.2.1}Motion Planner}{76}{subsection.5.2.1}%
-\contentsline {subsection}{\numberline {5.2.2}Momentum Based Observer}{78}{subsection.5.2.2}%
-\contentsline {subsection}{\numberline {5.2.3}Quadratic Problem}{79}{subsection.5.2.3}%
-\contentsline {chapter}{\numberline {6}Appendix}{83}{chapter.6}%
-\contentsline {section}{\numberline {6.1}Probability and State Estimation}{83}{section.6.1}%
-\contentsline {subsection}{\numberline {6.1.1}Probability Primer}{83}{subsection.6.1.1}%
-\contentsline {subsubsection}{\numberline {6.1.1.1}Measurable Spaces and Probability Spaces}{83}{subsubsection.6.1.1.1}%
-\contentsline {subsection}{\numberline {6.1.2}State Estimation: Filters}{85}{subsection.6.1.2}%
-\contentsline {subsubsection}{\numberline {6.1.2.1}Parametric Filters}{85}{subsubsection.6.1.2.1}%
-\contentsline {section}{\numberline {6.2}Motion Planning}{86}{section.6.2}%
-\contentsline {subsection}{\numberline {6.2.1}Introduction}{86}{subsection.6.2.1}%
-\contentsline {subsection}{\numberline {6.2.2}Distance, Obstacles and \textit {Free Configuration Space}}{86}{subsection.6.2.2}%
-\contentsline {subsection}{\numberline {6.2.3}Grid-Based Mapping}{87}{subsection.6.2.3}%
-\contentsline {subsubsection}{\numberline {6.2.3.1}Probabilistic Roadmap Method: \textit {PRM}}{88}{subsubsection.6.2.3.1}%
-\contentsline {subsubsection}{\numberline {6.2.3.2}Artifical Potential Methods}{89}{subsubsection.6.2.3.2}%
-\contentsline {section}{\numberline {6.3}Lyapunov Theory}{91}{section.6.3}%
-\contentsline {subsection}{\numberline {6.3.1}LaSalle's Invariant Set Theorem}{91}{subsection.6.3.1}%
-\contentsline {subsection}{\numberline {6.3.2}Barbalat's Lemma}{91}{subsection.6.3.2}%
-\contentsline {section}{\numberline {6.4}Mathematical Appendix}{92}{section.6.4}%
-\contentsline {subsection}{\numberline {6.4.1}Vector Fields and Operators}{92}{subsection.6.4.1}%
-\contentsline {subsection}{\numberline {6.4.2}Distributions}{92}{subsection.6.4.2}%
+\contentsline {chapter}{\numberline {1}Introduction}{5}{chapter.1}%
+\contentsline {section}{\numberline {1.1}Configuration Space and Degrees of Freedom}{6}{section.1.1}%
+\contentsline {subsection}{\numberline {1.1.1}Gr\"{u}ber's Formula examples}{7}{subsection.1.1.1}%
+\contentsline {section}{\numberline {1.2}Topology Definition}{9}{section.1.2}%
+\contentsline {subsection}{\numberline {1.2.1}Exercises}{11}{subsection.1.2.1}%
+\contentsline {paragraph}{ProDrone a Six propellers plus two 5-DoFs arms drone:}{11}{figure.caption.10}%
+\contentsline {paragraph}{Mobile Kuka a Mobile manipulator arms robot:}{11}{figure.caption.12}%
+\contentsline {section}{\numberline {1.3}Task space and Workspace}{12}{section.1.3}%
+\contentsline {section}{\numberline {1.4}Underactuation}{12}{section.1.4}%
+\contentsline {section}{\numberline {1.5}Controllability}{13}{section.1.5}%
+\contentsline {chapter}{\numberline {2}Wheeled Robots}{17}{chapter.2}%
+\contentsline {section}{\numberline {2.1}Introduction}{17}{section.2.1}%
+\contentsline {section}{\numberline {2.2}Motion Constraints}{17}{section.2.2}%
+\contentsline {section}{\numberline {2.3}Equations of motion with nonholonomic constraints}{19}{section.2.3}%
+\contentsline {subsection}{\numberline {2.3.1}Examples: Kinematic Models}{20}{subsection.2.3.1}%
+\contentsline {subsubsection}{\numberline {2.3.1.1}Disk rolling on a plane, Unicycle and Differential Drive Robot}{20}{subsubsection.2.3.1.1}%
+\contentsline {subsubsection}{\numberline {2.3.1.2}Bycicle Robot}{20}{subsubsection.2.3.1.2}%
+\contentsline {subsubsection}{\numberline {2.3.1.3}Dynamic Model of the unicycle}{22}{subsubsection.2.3.1.3}%
+\contentsline {section}{\numberline {2.4}Low-level Planning}{23}{section.2.4}%
+\contentsline {subsection}{\numberline {2.4.1}Example: Unicycle}{24}{subsection.2.4.1}%
+\contentsline {subsection}{\numberline {2.4.2}Path Planning and Differential Flatness for the unicycle}{24}{subsection.2.4.2}%
+\contentsline {subsubsection}{\numberline {2.4.2.1}Planning via Cartesian Polynomials}{24}{subsubsection.2.4.2.1}%
+\contentsline {subsection}{\numberline {2.4.3}Optimal Trajectories}{25}{subsection.2.4.3}%
+\contentsline {subsubsection}{\numberline {2.4.3.1}Minimum-Time Trajectories}{25}{subsubsection.2.4.3.1}%
+\contentsline {section}{\numberline {2.5}High-Level Planning}{26}{section.2.5}%
+\contentsline {subsection}{\numberline {2.5.1}Unicycle Trajectory Tracking}{27}{subsection.2.5.1}%
+\contentsline {subsubsection}{\numberline {2.5.1.1}Unicycle Trajectory Tracking: Linearization}{28}{subsubsection.2.5.1.1}%
+\contentsline {subsubsection}{\numberline {2.5.1.2}\textit {Almost} nonlinear control}{29}{subsubsection.2.5.1.2}%
+\contentsline {subsubsection}{\numberline {2.5.1.3}Input-Output Linearization}{29}{subsubsection.2.5.1.3}%
+\contentsline {subsection}{\numberline {2.5.2}Conclusions}{30}{subsection.2.5.2}%
+\contentsline {subsection}{\numberline {2.5.3}Unicycle Regulation}{30}{subsection.2.5.3}%
+\contentsline {subsubsection}{\numberline {2.5.3.1}Cartesian Regulation}{30}{subsubsection.2.5.3.1}%
+\contentsline {subsubsection}{\numberline {2.5.3.2}Posture Regulation}{31}{subsubsection.2.5.3.2}%
+\contentsline {section}{\numberline {2.6}Unicycle Localization}{32}{section.2.6}%
+\contentsline {subsection}{\numberline {2.6.1}Passive Localization}{32}{subsection.2.6.1}%
+\contentsline {chapter}{\numberline {3}Aerial Robotics}{35}{chapter.3}%
+\contentsline {section}{\numberline {3.1}Introduction}{35}{section.3.1}%
+\contentsline {section}{\numberline {3.2}Dynamic Models}{35}{section.3.2}%
+\contentsline {subsection}{\numberline {3.2.1}Introduction: Reference Frames}{35}{subsection.3.2.1}%
+\contentsline {subsection}{\numberline {3.2.2}Inputs}{35}{subsection.3.2.2}%
+\contentsline {subsection}{\numberline {3.2.3}Dynamic Models: non-tilting UAVs}{38}{subsection.3.2.3}%
+\contentsline {subsection}{\numberline {3.2.4}Dynamic Models: tilting UAV}{39}{subsection.3.2.4}%
+\contentsline {subsection}{\numberline {3.2.5}Dynamic Models: Unmanned Aerial Manipulator}{41}{subsection.3.2.5}%
+\contentsline {section}{\numberline {3.3}Control and Flat Outputs}{42}{section.3.3}%
+\contentsline {subsection}{\numberline {3.3.1}Flat Outputs}{42}{subsection.3.3.1}%
+\contentsline {subsection}{\numberline {3.3.2}Hierarchical Controller of a Quadcopter}{42}{subsection.3.3.2}%
+\contentsline {subsection}{\numberline {3.3.3}\textit {Geometric Controller} of a Quadcopter}{44}{subsection.3.3.3}%
+\contentsline {subsection}{\numberline {3.3.4}Estimar-Based Control of a quadcopter}{45}{subsection.3.3.4}%
+\contentsline {subsection}{\numberline {3.3.5}Passivity-Based Controller with Compensation of external wrench}{46}{subsection.3.3.5}%
+\contentsline {section}{\numberline {3.4}Disturbance effects}{47}{section.3.4}%
+\contentsline {subsection}{\numberline {3.4.1}Ground Effect}{47}{subsection.3.4.1}%
+\contentsline {subsection}{\numberline {3.4.2}Ceiling Effect}{49}{subsection.3.4.2}%
+\contentsline {subsection}{\numberline {3.4.3}Wall, Pipe Effects and Flapping Dynamics}{49}{subsection.3.4.3}%
+\contentsline {chapter}{\numberline {4}Underwater Robotics}{51}{chapter.4}%
+\contentsline {section}{\numberline {4.1}Introduction}{51}{section.4.1}%
+\contentsline {section}{\numberline {4.2}Dynamic Model}{51}{section.4.2}%
+\contentsline {subsection}{\numberline {4.2.1}Working in water: currents, buoyancy and added inertia}{51}{subsection.4.2.1}%
+\contentsline {chapter}{\numberline {5}Legged Robotics}{55}{chapter.5}%
+\contentsline {subsection}{\numberline {5.0.1}Introduction}{55}{subsection.5.0.1}%
+\contentsline {subsection}{\numberline {5.0.2}Taxonomy}{55}{subsection.5.0.2}%
+\contentsline {subsection}{\numberline {5.0.3}Dynamic Model}{57}{subsection.5.0.3}%
+\contentsline {subsection}{\numberline {5.0.4}Constrained Consistent Dynamics}{59}{subsection.5.0.4}%
+\contentsline {section}{\numberline {5.1}Balancing}{59}{section.5.1}%
+\contentsline {subsection}{\numberline {5.1.1}Centroidal Dynamics}{59}{subsection.5.1.1}%
+\contentsline {subsection}{\numberline {5.1.2}Complementarity Constraints}{60}{subsection.5.1.2}%
+\contentsline {subsection}{\numberline {5.1.3}Introduction to stability conditions}{60}{subsection.5.1.3}%
+\contentsline {subsubsection}{\numberline {5.1.3.1}Fixed Points}{61}{subsubsection.5.1.3.1}%
+\contentsline {subsubsection}{\numberline {5.1.3.2}Limit Cycles}{62}{subsubsection.5.1.3.2}%
+\contentsline {section}{\numberline {5.2}Control of Legged Robots}{62}{section.5.2}%
+\contentsline {subsection}{\numberline {5.2.1}Motion Planner}{62}{subsection.5.2.1}%
+\contentsline {subsection}{\numberline {5.2.2}Momentum Based Observer}{64}{subsection.5.2.2}%
+\contentsline {subsection}{\numberline {5.2.3}Quadratic Problem}{64}{subsection.5.2.3}%
+\contentsline {chapter}{\numberline {6}Appendix}{67}{chapter.6}%
+\contentsline {section}{\numberline {6.1}Probability and State Estimation}{67}{section.6.1}%
+\contentsline {subsection}{\numberline {6.1.1}Probability Primer}{67}{subsection.6.1.1}%
+\contentsline {subsubsection}{\numberline {6.1.1.1}Measurable Spaces and Probability Spaces}{67}{subsubsection.6.1.1.1}%
+\contentsline {subsection}{\numberline {6.1.2}State Estimation: Filters}{68}{subsection.6.1.2}%
+\contentsline {subsubsection}{\numberline {6.1.2.1}Parametric Filters}{68}{subsubsection.6.1.2.1}%
+\contentsline {section}{\numberline {6.2}Motion Planning}{68}{section.6.2}%
+\contentsline {subsection}{\numberline {6.2.1}Introduction}{68}{subsection.6.2.1}%
+\contentsline {subsection}{\numberline {6.2.2}Distance, Obstacles and \textit {Free Configuration Space}}{69}{subsection.6.2.2}%
+\contentsline {subsection}{\numberline {6.2.3}Grid-Based Mapping}{70}{subsection.6.2.3}%
+\contentsline {subsubsection}{\numberline {6.2.3.1}Probabilistic Roadmap Method: \textit {PRM}}{70}{subsubsection.6.2.3.1}%
+\contentsline {subsubsection}{\numberline {6.2.3.2}Artifical Potential Methods}{71}{subsubsection.6.2.3.2}%
+\contentsline {section}{\numberline {6.3}Lyapunov Theory}{73}{section.6.3}%
+\contentsline {subsection}{\numberline {6.3.1}LaSalle's Invariant Set Theorem}{73}{subsection.6.3.1}%
+\contentsline {subsection}{\numberline {6.3.2}Barbalat's Lemma}{73}{subsection.6.3.2}%
+\contentsline {section}{\numberline {6.4}Mathematical Appendix}{74}{section.6.4}%
+\contentsline {subsection}{\numberline {6.4.1}Vector Fields and Operators}{74}{subsection.6.4.1}%
+\contentsline {subsection}{\numberline {6.4.2}Distributions}{74}{subsection.6.4.2}%

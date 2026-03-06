@@ -9,3 +9,5 @@ FSR_Notes.tex
   - Underwater Robotics.tex
   - Legged Robotics.tex
   - Appendix.tex
+
+All'interno della cartella Tikz si trovano tutti i disegni realizzati con la libreriea Tikz. Ogni disegno viene richiamato nei capitoli tramite comando \input{nome.tex}

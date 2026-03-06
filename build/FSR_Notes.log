@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.27 (MiKTeX 25.4) (preloaded format=pdflatex 2025.11.12)  5 MAR 2026 23:22
+This is pdfTeX, Version 3.141592653-2.6-1.40.27 (MiKTeX 25.4) (preloaded format=pdflatex 2025.11.12)  6 MAR 2026 18:53
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -649,6 +649,10 @@ File: pgflibraryarrows.meta.code.tex 2025-08-29 v3.1.11a (3.1.11a)
 \pgfarrowwidth=\dimen301
 \pgfarrowlinewidth=\dimen302
 )
+(C:\Users\Acer\AppData\Local\Programs\MiKTeX\tex/generic/pgf/frontendlayer/tikz
+/libraries\tikzlibrarycalc.code.tex
+File: tikzlibrarycalc.code.tex 2025-08-29 v3.1.11a (3.1.11a)
+)
 (C:\Users\Acer\AppData\Local\Programs\MiKTeX\tex/latex/hyperref\hyperref.sty
 Package: hyperref 2025-07-12 v7.01o Hypertext links for LaTeX
 
@@ -1020,8 +1024,28 @@ Package: xparse 2025-10-09 L3 Experimental document command parser
 )
 Package: blx-case-expl3 2025/07/10 v3.21 expl3 case changing code for biblatex
 ))
-\@quotelevel=\count478
-\@quotereset=\count479
+(C:\Users\Acer\AppData\Local\Programs\MiKTeX\tex/latex/geometry\geometry.sty
+Package: geometry 2020/01/02 v5.9 Page Geometry
+
+(C:\Users\Acer\AppData\Local\Programs\MiKTeX\tex/generic/iftex\ifvtex.sty
+Package: ifvtex 2019/10/25 v1.7 ifvtex legacy package. Use iftex instead.
+)
+\Gm@cnth=\count478
+\Gm@cntv=\count479
+\c@Gm@tempcnt=\count480
+\Gm@bindingoffset=\dimen307
+\Gm@wd@mp=\dimen308
+\Gm@odd@mp=\dimen309
+\Gm@even@mp=\dimen310
+\Gm@layoutwidth=\dimen311
+\Gm@layoutheight=\dimen312
+\Gm@layouthoffset=\dimen313
+\Gm@layoutvoffset=\dimen314
+\Gm@dimlist=\toks44
+
+(C:\Users\Acer\AppData\Local\Programs\MiKTeX\tex/latex/geometry\geometry.cfg))
+\@quotelevel=\count481
+\@quotereset=\count482
 
 (C:\Users\Acer\OneDrive - Università di Napoli Federico II\Università\esami m
 agistrale\Field and service\FSR_Notes\FSR_Notes\build\FSR_Notes.aux
@@ -1039,39 +1063,39 @@ agistrale\Field and service\FSR_Notes\FSR_Notes\build\Legged Robotics.aux)
 agistrale\Field and service\FSR_Notes\FSR_Notes\build\Appendix.aux))
 \openout1 = `FSR_Notes.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 26.
-LaTeX Font Info:    ... okay on input line 26.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 26.
-LaTeX Font Info:    ... okay on input line 26.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 26.
-LaTeX Font Info:    ... okay on input line 26.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 26.
-LaTeX Font Info:    ... okay on input line 26.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 26.
-LaTeX Font Info:    ... okay on input line 26.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 26.
-LaTeX Font Info:    ... okay on input line 26.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 26.
-LaTeX Font Info:    ... okay on input line 26.
-LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 26.
-LaTeX Font Info:    ... okay on input line 26.
-LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 26.
-LaTeX Font Info:    ... okay on input line 26.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 36.
+LaTeX Font Info:    ... okay on input line 36.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 36.
+LaTeX Font Info:    ... okay on input line 36.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 36.
+LaTeX Font Info:    ... okay on input line 36.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 36.
+LaTeX Font Info:    ... okay on input line 36.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 36.
+LaTeX Font Info:    ... okay on input line 36.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 36.
+LaTeX Font Info:    ... okay on input line 36.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 36.
+LaTeX Font Info:    ... okay on input line 36.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 36.
+LaTeX Font Info:    ... okay on input line 36.
+LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 36.
+LaTeX Font Info:    ... okay on input line 36.
 
 (C:\Users\Acer\AppData\Local\Programs\MiKTeX\tex/context/base/mkii\supp-pdf.mki
 i
 [Loading MPS to PDF converter (version 2006.09.02).]
-\scratchcounter=\count480
-\scratchdimen=\dimen307
+\scratchcounter=\count483
+\scratchdimen=\dimen315
 \scratchbox=\box115
-\nofMPsegments=\count481
-\nofMParguments=\count482
-\everyMPshowfont=\toks44
-\MPscratchCnt=\count483
-\MPscratchDim=\dimen308
-\MPnumerator=\count484
-\makeMPintoPDFobject=\count485
-\everyMPtoPDFconversion=\toks45
+\nofMPsegments=\count484
+\nofMParguments=\count485
+\everyMPshowfont=\toks45
+\MPscratchCnt=\count486
+\MPscratchDim=\dimen316
+\MPnumerator=\count487
+\makeMPintoPDFobject=\count488
+\everyMPtoPDFconversion=\toks46
 )
 (C:\Users\Acer\AppData\Local\Programs\MiKTeX\tex/latex/epstopdf-pkg\epstopdf-ba
 se.sty
@@ -1087,7 +1111,7 @@ Package caption Info: Begin \AtBeginDocument code.
 Package caption Info: hyperref package is loaded.
 Package caption Info: wrapfig package is loaded.
 Package caption Info: End \AtBeginDocument code.
-Package hyperref Info: Link coloring OFF on input line 26.
+Package hyperref Info: Link coloring OFF on input line 36.
 
 (C:\Users\Acer\OneDrive - Università di Napoli Federico II\Università\esami m
 agistrale\Field and service\FSR_Notes\FSR_Notes\build\FSR_Notes.out)
@@ -1111,17 +1135,51 @@ Package biblatex Info: Trying to load bibliographic data...
 Package biblatex Info: ... file 'FSR_Notes.bbl' not found.
 
 No file FSR_Notes.bbl.
-Package biblatex Info: Reference section=0 on input line 26.
-Package biblatex Info: Reference segment=0 on input line 26.
-\c@theorem=\count486
-\c@lemma=\count487
-\c@definition=\count488
-LaTeX Font Info:    Trying to load font information for U+msa on input line 40.
+Package biblatex Info: Reference section=0 on input line 36.
+Package biblatex Info: Reference segment=0 on input line 36.
+*geometry* driver: auto-detecting
+*geometry* detected driver: pdftex
+*geometry* verbose mode - [ preamble ] result:
+* driver: pdftex
+* paper: a4paper
+* layout: <same size as paper>
+* layoutoffset:(h,v)=(0.0pt,0.0pt)
+* modes: twoside 
+* h-part:(L,W,R)=(56.9055pt, 483.69687pt, 56.9055pt)
+* v-part:(T,H,B)=(71.13188pt, 702.78308pt, 71.13188pt)
+* \paperwidth=597.50787pt
+* \paperheight=845.04684pt
+* \textwidth=483.69687pt
+* \textheight=702.78308pt
+* \oddsidemargin=-15.36449pt
+* \evensidemargin=-15.36449pt
+* \topmargin=-31.2056pt
+* \headheight=12.0pt
+* \headsep=18.06749pt
+* \topskip=10.0pt
+* \footskip=25.29494pt
+* \marginparwidth=125.0pt
+* \marginparsep=7.0pt
+* \columnsep=10.0pt
+* \skip\footins=9.0pt plus 4.0pt minus 2.0pt
+* \hoffset=0.0pt
+* \voffset=0.0pt
+* \mag=1000
+* \@twocolumnfalse
+* \@twosidetrue
+* \@mparswitchtrue
+* \@reversemarginfalse
+* (1in=72.27pt=25.4mm, 1cm=28.453pt)
+
+\c@theorem=\count489
+\c@lemma=\count490
+\c@definition=\count491
+LaTeX Font Info:    Trying to load font information for U+msa on input line 50.
 
 (C:\Users\Acer\AppData\Local\Programs\MiKTeX\tex/latex/amsfonts\umsa.fd
 File: umsa.fd 2013/01/14 v3.01 AMS symbols A
 )
-LaTeX Font Info:    Trying to load font information for U+msb on input line 40.
+LaTeX Font Info:    Trying to load font information for U+msb on input line 50.
 
 
 (C:\Users\Acer\AppData\Local\Programs\MiKTeX\tex/latex/amsfonts\umsb.fd
@@ -1134,348 +1192,321 @@ File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 
 ]
 (C:\Users\Acer\OneDrive - Università di Napoli Federico II\Università\esami m
-agistrale\Field and service\FSR_Notes\FSR_Notes\build\FSR_Notes.toc [3]
-[4])
+agistrale\Field and service\FSR_Notes\FSR_Notes\build\FSR_Notes.toc [3])
 \tf@toc=\write6
 \openout6 = `FSR_Notes.toc'.
 
- [5]
+
+[4]
 \openout2 = `Introduction.aux'.
 
- (Introduction.tex [6
+ (Introduction.tex
+Chapter 1.
+[5
 
 
 ]
-Chapter 1.
-[7] [8]
-<Images/typical_robot_joints.png, id=484, 853.1875pt x 422.57875pt>
+<Images/typical_robot_joints.png, id=476, 853.1875pt x 422.57875pt>
 File: Images/typical_robot_joints.png Graphic file (type png)
 <use Images/typical_robot_joints.png>
-Package pdftex.def Info: Images/typical_robot_joints.png  used on input line 47
+Package pdftex.def Info: Images/typical_robot_joints.png  used on input line 48
 .
-(pdftex.def)             Requested size: 165.59853pt x 82.01886pt.
-<Images/image2.png, id=486, 355.3275pt x 171.64125pt>
+(pdftex.def)             Requested size: 232.17242pt x 114.99405pt.
+<Images/image2.png, id=478, 355.3275pt x 171.64125pt>
 File: Images/image2.png Graphic file (type png)
 <use Images/image2.png>
-Package pdftex.def Info: Images/image2.png  used on input line 51.
-(pdftex.def)             Requested size: 165.59853pt x 79.99567pt.
-<Images/image1.png, id=487, 298.86656pt x 165.61874pt>
+Package pdftex.def Info: Images/image2.png  used on input line 52.
+(pdftex.def)             Requested size: 232.17242pt x 112.15475pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 43--57
+
+ []
+
+[6 <./Images/typical_robot_joints.png> <./Images/image2.png>]
+Underfull \hbox (badness 10000) in paragraph at lines 61--62
+
+ []
+
+
+Overfull \hbox (30.26959pt too wide) detected at line 69
+\OML/cmm/m/it/10 N \OT1/cmr/m/n/10 = 4([])\OML/cmm/m/it/10 ; J \OT1/cmr/m/n/10 
+= 4([])\OML/cmm/m/it/10 ; m \OT1/cmr/m/n/10 = 3([])\OML/cmm/m/it/10 ;
+ []
+
+(Tikz/four_bar_linkage.tex)
+Overfull \hbox (21.30217pt too wide) in paragraph at lines 66--77
+[][]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 66--77
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 80--81
+
+ []
+
+
+Overfull \hbox (30.26959pt too wide) detected at line 87
+\OML/cmm/m/it/10 N \OT1/cmr/m/n/10 = 4([])\OML/cmm/m/it/10 ; J \OT1/cmr/m/n/10 
+= 4([])\OML/cmm/m/it/10 ; m \OT1/cmr/m/n/10 = 3([])\OML/cmm/m/it/10 ;
+ []
+
+(Tikz/slider_crank.tex)
+Overfull \hbox (44.63855pt too wide) in paragraph at lines 73--95
+[][]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 73--95
+
+ []
+
+<Images/image1.png, id=494, 298.86656pt x 165.61874pt>
 File: Images/image1.png Graphic file (type png)
 <use Images/image1.png>
-Package pdftex.def Info: Images/image1.png  used on input line 62.
-(pdftex.def)             Requested size: 137.9979pt x 76.47363pt.
- [9 <./Images/typical_robot_joints.png> <./Images/image2.png> <./Images/image1.
-png>]
-<Images/image3.png, id=503, 392.96812pt x 103.88812pt>
+Package pdftex.def Info: Images/image1.png  used on input line 102.
+(pdftex.def)             Requested size: 193.47578pt x 107.21623pt.
+[7 <./Images/image1.png>]
+<Images/image3.png, id=506, 392.96812pt x 103.88812pt>
 File: Images/image3.png Graphic file (type png)
 <use Images/image3.png>
-Package pdftex.def Info: Images/image3.png  used on input line 83.
-(pdftex.def)             Requested size: 172.5pt x 45.60469pt.
- [10 <./Images/image3.png>]
-<Images/image4.png, id=510, 182.18062pt x 231.86626pt>
+Package pdftex.def Info: Images/image3.png  used on input line 123.
+(pdftex.def)             Requested size: 241.84843pt x 63.93915pt.
+ [8 <./Images/image3.png>]
+<Images/image4.png, id=513, 182.18062pt x 231.86626pt>
 File: Images/image4.png Graphic file (type png)
 <use Images/image4.png>
-Package pdftex.def Info: Images/image4.png  used on input line 96.
-(pdftex.def)             Requested size: 137.9979pt x 175.63994pt.
- [11 <./Images/image4.png>]
-<Images/image5.png, id=529, 396.7322pt x 57.96657pt>
+Package pdftex.def Info: Images/image4.png  used on input line 136.
+(pdftex.def)             Requested size: 193.47578pt x 246.25113pt.
+<Images/image5.png, id=515, 396.7322pt x 57.96657pt>
 File: Images/image5.png Graphic file (type png)
 <use Images/image5.png>
-Package pdftex.def Info: Images/image5.png  used on input line 127.
-(pdftex.def)             Requested size: 172.5pt x 25.20462pt.
- [12 <./Images/image5.png>]
-<Images/ProDrone.jpg, id=537, 475.7775pt x 316.18124pt>
+Package pdftex.def Info: Images/image5.png  used on input line 171.
+(pdftex.def)             Requested size: 241.84843pt x 35.33743pt.
+ [9 <./Images/image4.png>]
+<Images/ProDrone.jpg, id=533, 475.7775pt x 316.18124pt>
 File: Images/ProDrone.jpg Graphic file (type jpg)
 <use Images/ProDrone.jpg>
-Package pdftex.def Info: Images/ProDrone.jpg  used on input line 166.
-(pdftex.def)             Requested size: 137.9979pt x 91.7095pt.
+Package pdftex.def Info: Images/ProDrone.jpg  used on input line 210.
+(pdftex.def)             Requested size: 193.47578pt x 128.57375pt.
 
-Overfull \hbox (2.22221pt too wide) in paragraph at lines 164--188
+Overfull \hbox (2.2222pt too wide) in paragraph at lines 208--232
 []$[]$  $[]$ 
  []
 
-<Images/Mobile_Kuka.jpg, id=538, 1160.335pt x 792.9625pt>
+[10 <./Images/image5.png>]
+<Images/Mobile_Kuka.jpg, id=541, 1160.335pt x 792.9625pt>
 File: Images/Mobile_Kuka.jpg Graphic file (type jpg)
 <use Images/Mobile_Kuka.jpg>
-Package pdftex.def Info: Images/Mobile_Kuka.jpg  used on input line 194.
-(pdftex.def)             Requested size: 137.9979pt x 94.30441pt.
+Package pdftex.def Info: Images/Mobile_Kuka.jpg  used on input line 238.
+(pdftex.def)             Requested size: 193.47578pt x 132.21251pt.
 
-Overfull \hbox (2.22221pt too wide) in paragraph at lines 192--211
+Overfull \hbox (2.2222pt too wide) in paragraph at lines 236--255
 []$[]$  $[]$ 
  []
 
-[13] [14 <./Images/ProDrone.jpg> <./Images/Mobile_Kuka.jpg>]
-<Images/image7.png, id=552, 387.69844pt x 284.56313pt>
+[11 <./Images/ProDrone.jpg> <./Images/Mobile_Kuka.jpg>]
+<Images/image7.png, id=550, 387.69844pt x 284.56313pt>
 File: Images/image7.png Graphic file (type png)
 <use Images/image7.png>
-Package pdftex.def Info: Images/image7.png  used on input line 226.
-(pdftex.def)             Requested size: 172.5pt x 126.61064pt.
+Package pdftex.def Info: Images/image7.png  used on input line 270.
+(pdftex.def)             Requested size: 241.84843pt x 177.51283pt.
 
-Underfull \vbox (badness 2119) has occurred while \output is active []
 
- [15 <./Images/image7.png>]
+LaTeX Warning: Citation 'Taylor_ClassicalMechanics' on page 12 undefined on inp
+ut line 283.
 
-LaTeX Warning: Citation 'Taylor_ClassicalMechanics' on page 16 undefined on inp
-ut line 239.
-
-[16] [17]
-Overfull \hbox (0.33562pt too wide) in paragraph at lines 287--288
-[][]\OT1/cmr/bx/n/10 Theorem 1. []\OT1/cmr/m/it/10 A sys-tem that is small-time
- lo-cally con-trol-lable on a path-connected
- []
-
-<Images/image9.png, id=579, 224.33812pt x 170.13562pt>
+[12 <./Images/image7.png>] [13]
+<Images/image9.png, id=574, 224.33812pt x 170.13562pt>
 File: Images/image9.png Graphic file (type png)
 <use Images/image9.png>
-Package pdftex.def Info: Images/image9.png  used on input line 300.
-(pdftex.def)             Requested size: 103.50105pt x 78.49437pt.
-<Images/image10.png, id=580, 170.13562pt x 155.83218pt>
+Package pdftex.def Info: Images/image9.png  used on input line 344.
+(pdftex.def)             Requested size: 145.11053pt x 110.05464pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 346--346
+[]\OT1/cmr/m/n/10 Figure 1.9: |Con-trol-la-bil-ity:
+ []
+
+<Images/image10.png, id=575, 170.13562pt x 155.83218pt>
 File: Images/image10.png Graphic file (type png)
 <use Images/image10.png>
-Package pdftex.def Info: Images/image10.png  used on input line 308.
-(pdftex.def)             Requested size: 51.75052pt x 47.39915pt.
+Package pdftex.def Info: Images/image10.png  used on input line 352.
+(pdftex.def)             Requested size: 72.55527pt x 66.45488pt.
 
-Underfull \hbox (badness 5622) in paragraph at lines 310--310
-[]\OT1/cmr/m/n/10 Figure 1.10: |Small-
+Underfull \hbox (badness 1478) in paragraph at lines 354--354
+\OT1/cmr/m/n/10 In gen-eral, tra-jec-to-ries can-not
  []
 
-
-Underfull \hbox (badness 3954) in paragraph at lines 310--310
-\OT1/cmr/m/n/10 can-not progress from
- []
-
-<Images/image11.png, id=581, 208.52907pt x 167.12437pt>
+<Images/image11.png, id=576, 208.52907pt x 167.12437pt>
 File: Images/image11.png Graphic file (type png)
 <use Images/image11.png>
-Package pdftex.def Info: Images/image11.png  used on input line 316.
-(pdftex.def)             Requested size: 51.75052pt x 41.47496pt.
+Package pdftex.def Info: Images/image11.png  used on input line 360.
+(pdftex.def)             Requested size: 72.55527pt x 58.15013pt.
 
-Underfull \hbox (badness 1014) in paragraph at lines 318--318
-[]\OT1/cmr/m/n/10 Figure 1.11: |Om-ni-di-
+Underfull \hbox (badness 4634) in paragraph at lines 362--362
+[]\OT1/cmr/m/n/10 Figure 1.11: |Om-ni-di-rec-tional
  []
 
 
-Underfull \hbox (badness 7576) in paragraph at lines 318--318
-\OT1/cmr/m/n/10 rec-tional Con-trol-la-bil-
+Underfull \hbox (badness 4569) in paragraph at lines 362--362
+\OT1/cmr/m/n/10 The tra-jec-to-ries can progress
  []
 
-
-Underfull \hbox (badness 10000) in paragraph at lines 318--318
-\OT1/cmr/m/n/10 The tra-jec-to-ries can
- []
-
-[18]) [19 <./Images/image9.png> <./Images/image10.png> <./Images/image11.png>]
+[14 <./Images/image9.png> <./Images/image10.png> <./Images/image11.png>])
+[15]
 \openout2 = `"Wheeled Robots.aux"'.
 
-
-(Wheeled Robots.tex [20
+ (Wheeled Robots.tex [16
 
 
 
 
 ]
 Chapter 2.
-[21] [22]
-Overfull \hbox (5.73593pt too wide) has occurred while \output is active
-\OT1/cmr/m/sl/10 2.3.  EQUATIONS OF MOTION WITH NONHOLONOMIC CONSTRAINTS \OT1/c
-mr/m/n/10 23
+
+Overfull \hbox (7.17531pt too wide) in paragraph at lines 36--38
+\OT1/cmr/m/n/10 Are called \OT1/cmr/m/it/10 holo-nomic \OT1/cmr/m/n/10 or \OT1/
+cmr/m/it/10 in-te-grable \OT1/cmr/m/n/10 con-straints. Their ef-fect is to \OT1
+/cmr/m/it/10 re-duce the space of ad-mis-si-ble model-configurations
  []
 
-[23]
-Overfull \hbox (10.03198pt too wide) detected at line 122
-[]
- []
-
-
-Overfull \hbox (2.07451pt too wide) in paragraph at lines 157--157
-[]\OT1/cmr/bx/n/10 Disk rolling on a plane, Uni-cy-cle and Dif-fer-en-tial Driv
-e Robot 
- []
-
-[24]
-<Images/image13.png, id=641, 324.46219pt x 531.48563pt>
+[17] [18] [19]
+<Images/image13.png, id=632, 324.46219pt x 531.48563pt>
 File: Images/image13.png Graphic file (type png)
 <use Images/image13.png>
 Package pdftex.def Info: Images/image13.png  used on input line 225.
-(pdftex.def)             Requested size: 86.25pt x 141.28094pt.
+(pdftex.def)             Requested size: 120.92421pt x 198.07393pt.
 
 Overfull \hbox (2.22221pt too wide) in paragraph at lines 224--238
 []$[]$  $[]$ 
  []
 
-<Images/image15.png, id=642, 386.94562pt x 295.1025pt>
+<Images/image15.png, id=633, 386.94562pt x 295.1025pt>
 File: Images/image15.png Graphic file (type png)
 <use Images/image15.png>
 Package pdftex.def Info: Images/image15.png  used on input line 242.
-(pdftex.def)             Requested size: 124.20251pt x 94.7229pt.
+(pdftex.def)             Requested size: 174.1344pt x 132.8039pt.
 
-Overfull \hbox (2.22221pt too wide) in paragraph at lines 241--252
+Overfull \hbox (2.2222pt too wide) in paragraph at lines 241--252
 []$[]$  $[]$ 
  []
 
+[20] [21 <./Images/image13.png> <./Images/image15.png>]
+Underfull \vbox (badness 3168) has occurred while \output is active []
 
-Overfull \hbox (5.73593pt too wide) has occurred while \output is active
-\OT1/cmr/m/sl/10 2.3.  EQUATIONS OF MOTION WITH NONHOLONOMIC CONSTRAINTS \OT1/c
-mr/m/n/10 25
- []
-
-[25] [26 <./Images/image13.png> <./Images/image15.png>]
-Overfull \hbox (5.73593pt too wide) has occurred while \output is active
-\OT1/cmr/m/sl/10 2.3.  EQUATIONS OF MOTION WITH NONHOLONOMIC CONSTRAINTS \OT1/c
-mr/m/n/10 27
- []
-
-[27] [28] [29] [30]
-Overfull \hbox (9.54852pt too wide) in paragraph at lines 527--528
-[][]\OT1/cmr/bx/n/10 Definition 2.4.2. []\OT1/cmr/m/n/10 (\OT1/cmr/m/it/10 Pon-
-trya-gin's Min-i-mum Prin-ci-ple\OT1/cmr/m/n/10 ): Con-sider an $\OML/cmm/m/it/
-10 n$\OT1/cmr/m/n/10 -dimensional
- []
-
-<Images/image17.png, id=680, 112.16907pt x 106.89937pt>
+ [22]
+[23] [24]
+<Images/image17.png, id=666, 112.16907pt x 106.89937pt>
 File: Images/image17.png Graphic file (type png)
 <use Images/image17.png>
 Package pdftex.def Info: Images/image17.png  used on input line 563.
-(pdftex.def)             Requested size: 68.99895pt x 65.75983pt.
-<Images/image18.png, id=681, 123.46124pt x 134.00063pt>
+(pdftex.def)             Requested size: 96.73788pt x 92.19589pt.
+<Images/image18.png, id=667, 123.46124pt x 134.00063pt>
 File: Images/image18.png Graphic file (type png)
 <use Images/image18.png>
 Package pdftex.def Info: Images/image18.png  used on input line 569.
-(pdftex.def)             Requested size: 68.99895pt x 74.89261pt.
-[31]
-<Images/image19.png, id=692, 321.45094pt x 158.09062pt>
+(pdftex.def)             Requested size: 96.73788pt x 105.0026pt.
+<Images/image19.png, id=668, 321.45094pt x 158.09062pt>
 File: Images/image19.png Graphic file (type png)
 <use Images/image19.png>
 Package pdftex.def Info: Images/image19.png  used on input line 582.
-(pdftex.def)             Requested size: 169.04852pt x 83.14113pt.
+(pdftex.def)             Requested size: 237.00938pt x 116.56548pt.
 
-Underfull \hbox (badness 8038) in paragraph at lines 587--588
-[]\OT1/cmr/m/n/10 Each group con-tains
+Underfull \hbox (badness 2772) in paragraph at lines 587--588
+[]\OT1/cmr/m/n/10 Each group con-tains tra-jec-to-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 587--588
-\OT1/cmr/m/n/10 tra-jec-to-ries con-sist-ing
+Underfull \hbox (badness 3907) in paragraph at lines 587--588
+\OT1/cmr/m/n/10 ries con-sist-ing of a se-quence
  []
 
-
-Underfull \hbox (badness 2856) in paragraph at lines 587--588
-\OT1/cmr/m/n/10 of a se-quence of no
- []
-
-<Images/image21.png, id=693, 499.8675pt x 201.00093pt>
+[25 <./Images/image17.png> <./Images/image18.png>]
+<Images/image21.png, id=682, 499.8675pt x 201.00093pt>
 File: Images/image21.png Graphic file (type png)
 <use Images/image21.png>
 Package pdftex.def Info: Images/image21.png  used on input line 598.
-(pdftex.def)             Requested size: 276.00105pt x 110.98636pt.
-
-LaTeX Warning: `!h' float specifier changed to `!ht'.
-
-[32 <./Images/image17.png> <./Images/image18.png> <./Images/image19.png>]
-<Images/image24.png, id=703, 206.27063pt x 119.69719pt>
+(pdftex.def)             Requested size: 386.95897pt x 155.60541pt.
+<Images/image24.png, id=683, 206.27063pt x 119.69719pt>
 File: Images/image24.png Graphic file (type png)
 <use Images/image24.png>
 Package pdftex.def Info: Images/image24.png  used on input line 613.
-(pdftex.def)             Requested size: 124.20251pt x 72.07455pt.
-
-Underfull \hbox (badness 1331) in paragraph at lines 618--619
-[]\OT1/cmr/m/n/10 A uni-cy-cle is a flat sys-tem.
- []
-
-[33 <./Images/image21.png> <./Images/image24.png>]
-Overfull \hbox (38.31541pt too wide) detected at line 661
-[][][][]\OT1/cmr/m/n/10 (\OML/cmm/m/it/10 t\OT1/cmr/m/n/10 ) = [] [] [] + [] []
-
- []
-
-[34] [35] [36]
-<Images/image25.png, id=736, 545.03625pt x 468.24937pt>
+(pdftex.def)             Requested size: 174.1344pt x 101.05086pt.
+ [26 <./Images/image19.png> <./Images/image21.png>] [27 <./Images/image24.png>]
+ [28]
+<Images/image25.png, id=712, 545.03625pt x 468.24937pt>
 File: Images/image25.png Graphic file (type png)
 <use Images/image25.png>
 Package pdftex.def Info: Images/image25.png  used on input line 816.
-(pdftex.def)             Requested size: 124.20251pt x 106.70193pt.
- [37 <./Images/image25.png>] [38]
-<Images/image26.png, id=749, 283.81032pt x 280.79906pt>
+(pdftex.def)             Requested size: 174.1344pt x 149.59993pt.
+ [29 <./Images/image25.png>] [30]
+<Images/image26.png, id=726, 283.81032pt x 280.79906pt>
 File: Images/image26.png Graphic file (type png)
 <use Images/image26.png>
 Package pdftex.def Info: Images/image26.png  used on input line 924.
-(pdftex.def)             Requested size: 103.50105pt x 102.40297pt.
- [39 <./Images/image26.png>]
-[40] [41]) [42]
+(pdftex.def)             Requested size: 145.11053pt x 143.5741pt.
+ [31 <./Images/image26.png>] [32]) [33]
 \openout2 = `"Aerial Robotics.aux"'.
 
- (Aerial Robotics.tex
-Chapter 3.
-
-Underfull \hbox (badness 1708) in paragraph at lines 24--25
-[]\OT1/cmr/m/n/10 In the \OT1/cmr/m/it/10 Earth Cen-tered In-er-
- []
-
-<Images/image27.png, id=771, 293.59688pt x 236.38312pt>
-File: Images/image27.png Graphic file (type png)
-<use Images/image27.png>
-Package pdftex.def Info: Images/image27.png  used on input line 28.
-(pdftex.def)             Requested size: 124.20251pt x 99.998pt.
-
-Overfull \hbox (2.22221pt too wide) in paragraph at lines 23--31
-[]$[]$  $[]$ 
- []
-
-
-Underfull \hbox (badness 6893) in paragraph at lines 33--34
-[]\OT1/cmr/m/n/10 The \OT1/cmr/m/it/10 Earth Cen-tered Earth-
- []
-
-<Images/image28.png, id=772, 225.84375pt x 136.25906pt>
-File: Images/image28.png Graphic file (type png)
-<use Images/image28.png>
-Package pdftex.def Info: Images/image28.png  used on input line 37.
-(pdftex.def)             Requested size: 124.20251pt x 74.93646pt.
-<Images/image29.png, id=773, 202.50656pt x 155.83218pt>
-File: Images/image29.png Graphic file (type png)
-<use Images/image29.png>
-Package pdftex.def Info: Images/image29.png  used on input line 46.
-(pdftex.def)             Requested size: 124.20251pt x 95.57823pt.
-<Images/image30.png, id=774, 320.69812pt x 297.36093pt>
-File: Images/image30.png Graphic file (type png)
-<use Images/image30.png>
-Package pdftex.def Info: Images/image30.png  used on input line 55.
-(pdftex.def)             Requested size: 55.1983pt x 51.18138pt.
-<Images/image31.png, id=775, 370.38374pt x 292.84406pt>
-File: Images/image31.png Graphic file (type png)
-<use Images/image31.png>
-Package pdftex.def Info: Images/image31.png  used on input line 61.
-(pdftex.def)             Requested size: 55.1983pt x 43.63873pt.
-[43
+ (Aerial Robotics.tex [34
 
 
 
 
 ]
-<Images/image33.png, id=781, 493.0922pt x 255.95625pt>
+Chapter 3.
+<Images/image27.png, id=749, 293.59688pt x 236.38312pt>
+File: Images/image27.png Graphic file (type png)
+<use Images/image27.png>
+Package pdftex.def Info: Images/image27.png  used on input line 28.
+(pdftex.def)             Requested size: 174.1344pt x 140.20064pt.
+
+Overfull \hbox (2.2222pt too wide) in paragraph at lines 23--31
+[]$[]$  $[]$ 
+ []
+
+<Images/image28.png, id=750, 225.84375pt x 136.25906pt>
+File: Images/image28.png Graphic file (type png)
+<use Images/image28.png>
+Package pdftex.def Info: Images/image28.png  used on input line 37.
+(pdftex.def)             Requested size: 174.1344pt x 105.0674pt.
+<Images/image29.png, id=751, 202.50656pt x 155.83218pt>
+File: Images/image29.png Graphic file (type png)
+<use Images/image29.png>
+Package pdftex.def Info: Images/image29.png  used on input line 46.
+(pdftex.def)             Requested size: 174.1344pt x 134.00117pt.
+<Images/image30.png, id=752, 320.69812pt x 297.36093pt>
+File: Images/image30.png Graphic file (type png)
+<use Images/image30.png>
+Package pdftex.def Info: Images/image30.png  used on input line 55.
+(pdftex.def)             Requested size: 77.38913pt x 71.75375pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 56--56
+[]\OT1/cmr/m/n/10 Figure 3.4: |\OT1/cmr/m/it/10 Latitude-Longitude-Altitude
+ []
+
+<Images/image31.png, id=753, 370.38374pt x 292.84406pt>
+File: Images/image31.png Graphic file (type png)
+<use Images/image31.png>
+Package pdftex.def Info: Images/image31.png  used on input line 61.
+(pdftex.def)             Requested size: 77.38913pt x 61.18626pt.
+<Images/image33.png, id=754, 493.0922pt x 255.95625pt>
 File: Images/image33.png Graphic file (type png)
 <use Images/image33.png>
 Package pdftex.def Info: Images/image33.png  used on input line 71.
-(pdftex.def)             Requested size: 124.20251pt x 64.46928pt.
-
-Underfull \hbox (badness 1888) in paragraph at lines 75--76
-[]\OT1/cmr/m/n/10 For each pro-peller, de-fine a
- []
-
-
-Underfull \hbox (badness 1107) in paragraph at lines 75--76
-\OT1/cmr/m/n/10 change its ori-en-ta-tion, which
- []
-
-[44 <./Images/image27.png> <./Images/image28.png> <./Images/image29.png> <./Ima
-ges/image30.png> <./Images/image31.png>] [45 <./Images/image33.png>] [46]
-<Images/image32.png, id=805, 511.9125pt x 294.34969pt>
+(pdftex.def)             Requested size: 174.1344pt x 90.39056pt.
+[35] [36 <./Images/image27.png> <./Images/image28.png> <./Images/image29.png> <
+./Images/image30.png> <./Images/image31.png> <./Images/image33.png>] [37]
+<Images/image32.png, id=779, 511.9125pt x 294.34969pt>
 File: Images/image32.png Graphic file (type png)
 <use Images/image32.png>
 Package pdftex.def Info: Images/image32.png  used on input line 139.
-(pdftex.def)             Requested size: 124.20251pt x 71.41339pt.
+(pdftex.def)             Requested size: 174.1344pt x 100.12697pt.
 
-Overfull \hbox (36.72432pt too wide) in paragraph at lines 134--142
+Overfull \hbox (50.59485pt too wide) in paragraph at lines 134--142
 []$[]$  $[]$ 
  []
 
@@ -1484,265 +1515,179 @@ Underfull \hbox (badness 10000) in paragraph at lines 168--169
 
  []
 
-[47 <./Images/image32.png>] [48]
-<Images/image34.png, id=822, 570.63188pt x 316.93407pt>
+[38 <./Images/image32.png>]
+<Images/image34.png, id=790, 570.63188pt x 316.93407pt>
 File: Images/image34.png Graphic file (type png)
 <use Images/image34.png>
 Package pdftex.def Info: Images/image34.png  used on input line 254.
-(pdftex.def)             Requested size: 169.04852pt x 93.89128pt.
-
-Underfull \hbox (badness 1297) in paragraph at lines 258--259
-\OT1/cmr/m/n/10 ing its free-body di-a-
- []
-
-[49 <./Images/image34.png>]
-Overfull \hbox (20.59496pt too wide) detected at line 349
-[]
- []
-
-[50] [51] [52] [53] [54]
-Overfull \hbox (15.76593pt too wide) in paragraph at lines 624--625
-\OT1/cmr/m/n/10 last choice is crit-i-cal, in the sense that it could hap-pen t
-hat the triplet $(\OML/cmm/m/it/10 x[]; y[]; z[]\OT1/cmr/m/n/10 )$
- []
-
-[55]
-Overfull \hbox (7.17917pt too wide) detected at line 648
-[]
- []
-
-[56]
-Overfull \hbox (3.22366pt too wide) in paragraph at lines 770--770
-[]\OT1/cmr/bx/n/12 Passivity-Based Con-troller with Com-pen-sa-tion of ex-
- []
-
-[57] [58]
-<Images/image35.png, id=905, 1899.095pt x 1419.3025pt>
+(pdftex.def)             Requested size: 237.00938pt x 131.63641pt.
+ [39] [40 <./Images/image34.png>] [41] [42] [43]
+[44] [45] [46]
+<Images/image35.png, id=866, 1899.095pt x 1419.3025pt>
 File: Images/image35.png Graphic file (type png)
 <use Images/image35.png>
 Package pdftex.def Info: Images/image35.png  used on input line 836.
-(pdftex.def)             Requested size: 207.0021pt x 154.69441pt.
- [59]
-<Images/image36.png, id=910, 170.88844pt x 153.57375pt>
+(pdftex.def)             Requested size: 290.22107pt x 216.89268pt.
+<Images/image36.png, id=867, 170.88844pt x 153.57375pt>
 File: Images/image36.png Graphic file (type png)
 <use Images/image36.png>
 Package pdftex.def Info: Images/image36.png  used on input line 853.
-(pdftex.def)             Requested size: 103.50105pt x 93.01668pt.
-<Images/image37.png, id=911, 285.31593pt x 297.36093pt>
+(pdftex.def)             Requested size: 145.11053pt x 130.41644pt.
+<Images/image37.png, id=868, 285.31593pt x 297.36093pt>
 File: Images/image37.png Graphic file (type png)
 <use Images/image37.png>
 Package pdftex.def Info: Images/image37.png  used on input line 858.
-(pdftex.def)             Requested size: 86.25pt x 89.88956pt.
- [60 <./Images/image35.png (PNG copy)>]
-<Images/image38.png, id=918, 229.60782pt x 129.48375pt>
+(pdftex.def)             Requested size: 120.92421pt x 126.0296pt.
+ [47] [48 <./Images/image35.png (PNG copy)> <./Images/image36.png> <./Images/im
+age37.png>]
+<Images/image38.png, id=882, 229.60782pt x 129.48375pt>
 File: Images/image38.png Graphic file (type png)
 <use Images/image38.png>
 Package pdftex.def Info: Images/image38.png  used on input line 873.
-(pdftex.def)             Requested size: 129.375pt x 72.96283pt.
-) [61 <./Images/image36.png> <./Images/image37.png> <./Images/image38.png>] [62
-]
+(pdftex.def)             Requested size: 181.38632pt x 102.29497pt.
+) [49 <./Images/image38.png>]
 \openout2 = `"Underwater Robotics.aux"'.
 
- (Underwater Robotics.tex
+ (Underwater Robotics.tex [50
+
+
+
+
+]
 Chapter 4.
-<Images/body_underwater.png, id=933, 293.59688pt x 178.41656pt>
+
+Overfull \hbox (15.38744pt too wide) in paragraph at lines 16--17
+[]\OT1/cmr/m/n/10 The al-lo-ca-tion ma-trix is very dif-fi-cult to ob-tain, due
+ to the highly non-lin-ear re-la-tion-ship be-tween force/moment
+ []
+
+<Images/body_underwater.png, id=894, 293.59688pt x 178.41656pt>
 File: Images/body_underwater.png Graphic file (type png)
 <use Images/body_underwater.png>
 Package pdftex.def Info: Images/body_underwater.png  used on input line 23.
-(pdftex.def)             Requested size: 207.0021pt x 125.79457pt.
+(pdftex.def)             Requested size: 290.22107pt x 176.36612pt.
 
-Overfull \hbox (2.22221pt too wide) in paragraph at lines 21--35
+Overfull \hbox (2.2222pt too wide) in paragraph at lines 21--35
 []$[]$  $[]$ 
  []
 
-[63
-
-
-
-
-] [64 <./Images/body_underwater.png>]) [65] [66]
+[51] [52 <./Images/body_underwater.png>]) [53]
 \openout2 = `"Legged Robotics.aux"'.
 
- (Legged Robotics.tex
+ (Legged Robotics.tex [54
+
+
+
+
+]
 Chapter 5.
 
 Package hyperref Warning: Difference (2) between bookmark levels is greater 
 (hyperref)                than one, level fixed on input line 2.
 
-<Images/statically_stable_robot.png, id=964, 255.95625pt x 181.42781pt>
+<Images/statically_stable_robot.png, id=925, 255.95625pt x 181.42781pt>
 File: Images/statically_stable_robot.png Graphic file (type png)
 <use Images/statically_stable_robot.png>
 Package pdftex.def Info: Images/statically_stable_robot.png  used on input line
  15.
-(pdftex.def)             Requested size: 86.25pt x 61.13649pt.
-<Images/dinamic_stable_gait.png, id=965, 252.945pt x 235.63031pt>
+(pdftex.def)             Requested size: 120.92421pt x 85.71402pt.
+<Images/dinamic_stable_gait.png, id=926, 252.945pt x 235.63031pt>
 File: Images/dinamic_stable_gait.png Graphic file (type png)
 <use Images/dinamic_stable_gait.png>
 Package pdftex.def Info: Images/dinamic_stable_gait.png  used on input line 21.
 
-(pdftex.def)             Requested size: 86.25pt x 80.34694pt.
-<Images/prismatic_leg.png, id=966, 211.54031pt x 261.97874pt>
+(pdftex.def)             Requested size: 120.92421pt x 112.64824pt.
+<Images/prismatic_leg.png, id=927, 211.54031pt x 261.97874pt>
 File: Images/prismatic_leg.png Graphic file (type png)
 <use Images/prismatic_leg.png>
 Package pdftex.def Info: Images/prismatic_leg.png  used on input line 34.
-(pdftex.def)             Requested size: 51.75052pt x 64.0874pt.
-<Images/articulated_leg.png, id=967, 167.87718pt x 252.19218pt>
+(pdftex.def)             Requested size: 72.55527pt x 89.85509pt.
+<Images/articulated_leg.png, id=928, 167.87718pt x 252.19218pt>
 File: Images/articulated_leg.png Graphic file (type png)
 <use Images/articulated_leg.png>
 Package pdftex.def Info: Images/articulated_leg.png  used on input line 40.
-(pdftex.def)             Requested size: 55.1983pt x 82.91966pt.
-<Images/redundant_articulated_leg.png, id=968, 162.6075pt x 248.42813pt>
+(pdftex.def)             Requested size: 77.38913pt x 116.25609pt.
+<Images/redundant_articulated_leg.png, id=929, 162.6075pt x 248.42813pt>
 File: Images/redundant_articulated_leg.png Graphic file (type png)
 <use Images/redundant_articulated_leg.png>
 Package pdftex.def Info: Images/redundant_articulated_leg.png  used on input li
 ne 52.
-(pdftex.def)             Requested size: 51.75052pt x 79.06268pt.
-[67
-
-
-
-
- <./Images/statically_stable_robot.png> <./Images/dinamic_stable_gait.png>]
-[68 <./Images/prismatic_leg.png> <./Images/articulated_leg.png> <./Images/redun
+(pdftex.def)             Requested size: 72.55527pt x 110.85152pt.
+[55 <./Images/statically_stable_robot.png> <./Images/dinamic_stable_gait.png>]
+[56 <./Images/prismatic_leg.png> <./Images/articulated_leg.png> <./Images/redun
 dant_articulated_leg.png>]
-<Images/floating_base_scheme.png, id=985, 355.3275pt x 219.82124pt>
+<Images/floating_base_scheme.png, id=946, 355.3275pt x 219.82124pt>
 File: Images/floating_base_scheme.png Graphic file (type png)
 <use Images/floating_base_scheme.png>
 Package pdftex.def Info: Images/floating_base_scheme.png  used on input line 72
 .
-(pdftex.def)             Requested size: 172.5pt x 106.71715pt.
-<Images/stance feet.png, id=986, 229.60782pt x 296.60812pt>
+(pdftex.def)             Requested size: 241.84843pt x 149.62068pt.
+<Images/stance feet.png, id=947, 229.60782pt x 296.60812pt>
 File: Images/stance feet.png Graphic file (type png)
 <use Images/stance feet.png>
 Package pdftex.def Info: Images/stance feet.png  used on input line 84.
-(pdftex.def)             Requested size: 129.375pt x 167.13583pt.
-
-Overfull \hbox (10.69931pt too wide) detected at line 105
-[][][]\OML/cmm/m/it/10 J[] \OT1/cmr/m/n/10 = [] \OMS/cmsy/m/n/10 2 \U/msb/m/n/1
-0 R[]
- []
-
-[69 <./Images/floating_base_scheme.png> <./Images/stance feet.png>]
-<Images/pyramid_friction_model.png, id=998, 465.99094pt x 134.00063pt>
+(pdftex.def)             Requested size: 181.38632pt x 234.32689pt.
+ [57 <./Images/floating_base_scheme.png> <./Images/stance feet.png>]
+<Images/pyramid_friction_model.png, id=960, 465.99094pt x 134.00063pt>
 File: Images/pyramid_friction_model.png Graphic file (type png)
 <use Images/pyramid_friction_model.png>
 Package pdftex.def Info: Images/pyramid_friction_model.png  used on input line 
 142.
-(pdftex.def)             Requested size: 258.75pt x 74.408pt.
- [70 <./Images/pyramid_friction_model.png>]
-Overfull \hbox (2.8985pt too wide) in paragraph at lines 166--167
-[][]\OT1/cmr/bx/n/10 Definition 5.0.5. []\OT1/cmr/m/it/10 (Con-strained Con-sis
--tent Dy-nam-ics model): \OT1/cmr/m/n/10 De-fine the model: 
- []
+(pdftex.def)             Requested size: 362.77264pt x 104.32376pt.
+ [58 <./Images/pyramid_friction_model.png>]
+Overfull \vbox (2.78444pt too high) has occurred while \output is active []
 
-[71] [72] [73] [74]
-Overfull \hbox (3.08485pt too wide) in paragraph at lines 322--323
-[]\OT1/cmr/m/it/10 Controllability\OT1/cmr/m/n/10 : it pro-vides a slightly re-
-stricted no-tion of vi-a-bil-ity, analysing
- []
 
-[75]
-<Images/legged_robots_whole_body_controller.png, id=1061, 672.26157pt x 268.001
+Overfull \vbox (2.78444pt too high) has occurred while \output is active []
+
+
+[59] [60] [61]
+<Images/legged_robots_whole_body_controller.png, id=1014, 672.26157pt x 268.001
 25pt>
 File: Images/legged_robots_whole_body_controller.png Graphic file (type png)
 <use Images/legged_robots_whole_body_controller.png>
 Package pdftex.def Info: Images/legged_robots_whole_body_controller.png  used o
 n input line 343.
-(pdftex.def)             Requested size: 258.75pt x 103.15012pt.
- [76 <./Images/legged_robots_whole_body_controller.png>]
-<Images/legged_swing_feet.png, id=1069, 188.95593pt x 196.48407pt>
+(pdftex.def)             Requested size: 362.77264pt x 144.62036pt.
+ [62 <./Images/legged_robots_whole_body_controller.png>]
+<Images/legged_swing_feet.png, id=1022, 188.95593pt x 196.48407pt>
 File: Images/legged_swing_feet.png Graphic file (type png)
 <use Images/legged_swing_feet.png>
 Package pdftex.def Info: Images/legged_swing_feet.png  used on input line 406.
-(pdftex.def)             Requested size: 169.04852pt x 175.78468pt.
+(pdftex.def)             Requested size: 237.00938pt x 246.45293pt.
 
-Underfull \hbox (badness 1303) in paragraph at lines 410--411
-[]\OT1/cmr/m/n/10 This can be achieved
+Underfull \hbox (badness 2495) in paragraph at lines 413--416
+\OT1/cmr/m/n/10 Finally, the ref-er-ence for the
  []
 
-
-Underfull \hbox (badness 1215) in paragraph at lines 410--411
-\OT1/cmr/m/n/10 by im-pos-ing the con-
- []
-
-
-Underfull \hbox (badness 2600) in paragraph at lines 413--416
-\OT1/cmr/m/n/10 Where $\OML/cmm/m/it/10 a; b; c$ \OT1/cmr/m/n/10 are the
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 413--416
-\OT1/cmr/m/n/10 passin through the
- []
-
-
-Underfull \hbox (badness 2980) in paragraph at lines 413--416
-\OT1/cmr/m/n/10 Finally, the ref-er-ence
- []
-
-
-Underfull \hbox (badness 1728) in paragraph at lines 413--416
-\OT1/cmr/m/n/10 for the swing feet is
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 413--416
-\OT1/cmr/m/n/10 com-puted us-ing two
- []
-
-[77] [78 <./Images/legged_swing_feet.png>]
-Overfull \hbox (20.48122pt too wide) in paragraph at lines 478--480
-\OT1/cmr/m/n/10 Where the terms $\OMS/cmsy/m/n/10 ^^@\OML/cmm/m/it/10 K[] [] \O
-MS/cmsy/m/n/10 ^^@ \OML/cmm/m/it/10 K[] []$ \OT1/cmr/m/n/10 rep-re-sent a Carte
--sian Impedance
- []
-
-[79] [80]
-Overfull \hbox (48.0603pt too wide) detected at line 561
-[]
- []
-
-) [81]
+[63 <./Images/legged_swing_feet.png>] [64] [65]) [66]
 \openout2 = `Appendix.aux'.
 
- (Appendix.tex [82
+ (Appendix.tex
+Chapter 6.
+[67
 
 
 
 
 ]
-Chapter 6.
-[83]
-Overfull \hbox (0.53087pt too wide) detected at line 44
-[]
- []
-
-[84]
-Overfull \hbox (56.09111pt too wide) detected at line 63
-[][][]\OML/cmm/m/it/10 p\OT1/cmr/m/n/10 (\OML/cmm/m/it/10 x[] \OMS/cmsy/m/n/10 
-j \OML/cmm/m/it/10 u[]; x[]\OT1/cmr/m/n/10 ) = [](2\OML/cmm/m/it/10 ^^YR[]\OT1/
-cmr/m/n/10 )[]\OML/cmm/m/it/10 exp []
- []
-
-<Images/image22.png, id=1141, 442.65375pt x 146.79843pt>
+<Images/image22.png, id=1081, 442.65375pt x 146.79843pt>
 File: Images/image22.png Graphic file (type png)
 <use Images/image22.png>
 Package pdftex.def Info: Images/image22.png  used on input line 77.
-(pdftex.def)             Requested size: 276.00105pt x 91.53598pt.
-[85] [86 <./Images/image22.png>]
-<Images/image23.png, id=1156, 197.23688pt x 195.73125pt>
+(pdftex.def)             Requested size: 386.95897pt x 128.33406pt.
+
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+[68] [69 <./Images/image22.png>]
+<Images/image23.png, id=1102, 197.23688pt x 195.73125pt>
 File: Images/image23.png Graphic file (type png)
 <use Images/image23.png>
 Package pdftex.def Info: Images/image23.png  used on input line 132.
-(pdftex.def)             Requested size: 124.20251pt x 123.25458pt.
- [87] [88 <./Images/image23.png>]
-Overfull \hbox (17.4492pt too wide) in paragraph at lines 181--182
-[]\OT1/cmr/m/n/10 A \OT1/cmr/m/it/10 re-pul-sive \OT1/cmr/m/n/10 po-ten-tial te
-rm, which pushes the robot away from the $[]\OMS/cmsy/m/n/10 ^^@$\OT1/cmr/m/n/1
-0 obstacle
- []
-
-[89] [90] [91] [92]) [93]
+(pdftex.def)             Requested size: 174.1344pt x 172.8055pt.
+ [70 <./Images/image23.png>] [71] [72] [73]
+[74]) [75]
 (C:\Users\Acer\OneDrive - Università di Napoli Federico II\Università\esami m
 agistrale\Field and service\FSR_Notes\FSR_Notes\build\FSR_Notes.aux
 (C:\Users\Acer\OneDrive - Università di Napoli Federico II\Università\esami m
@@ -1766,7 +1711,7 @@ L3 programming layer <2025-10-24>
 LaTeX Warning: There were undefined references.
 
 Package rerunfilecheck Info: File `FSR_Notes.out' has not changed.
-(rerunfilecheck)             Checksum: BD130ED599032EC80379FFB56AC962D5;15825.
+(rerunfilecheck)             Checksum: E8766897E1E19961E81AB857393CB3F9;16174.
 
 Package biblatex Warning: Please (re)run Biber on the file:
 (biblatex)                FSR_Notes
@@ -1777,11 +1722,11 @@ Package logreq Info: Writing requests to 'FSR_Notes.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 32108 strings out of 467871
- 623140 string characters out of 5418859
- 1518549 words of memory out of 5000000
- 60085 multiletter control sequences out of 15000+600000
- 642408 words of font info for 93 fonts, out of 8000000 for 9000
+ 32947 strings out of 467871
+ 638862 string characters out of 5418859
+ 1536581 words of memory out of 5000000
+ 60918 multiletter control sequences out of 15000+600000
+ 643019 words of font info for 95 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  84i,21n,104p,1110b,1291s stack positions out of 10000i,1000n,20000p,200000b,200000s
  <C:\Users\Acer\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\tcrm0
@@ -1811,21 +1756,22 @@ sers/Acer/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr7.pfb
 r8.pfb><C:/Users/Acer/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts
 /cm/cmr9.pfb><C:/Users/Acer/AppData/Local/Programs/MiKTeX/fonts/type1/public/am
 sfonts/cm/cmsl10.pfb><C:/Users/Acer/AppData/Local/Programs/MiKTeX/fonts/type1/p
-ublic/amsfonts/cm/cmsy10.pfb><C:/Users/Acer/AppData/Local/Programs/MiKTeX/fonts
-/type1/public/amsfonts/cm/cmsy5.pfb><C:/Users/Acer/AppData/Local/Programs/MiKTe
-X/fonts/type1/public/amsfonts/cm/cmsy6.pfb><C:/Users/Acer/AppData/Local/Program
-s/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy7.pfb><C:/Users/Acer/AppData/Local/
-Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy8.pfb><C:/Users/Acer/AppData
-/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy9.pfb><C:/Users/Acer/
-AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmti10.pfb><C:/Use
-rs/Acer/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmti8.pfb>
-<C:/Users/Acer/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/symbol
-s/msbm10.pfb>
+ublic/amsfonts/cm/cmss9.pfb><C:/Users/Acer/AppData/Local/Programs/MiKTeX/fonts/
+type1/public/amsfonts/cm/cmsy10.pfb><C:/Users/Acer/AppData/Local/Programs/MiKTe
+X/fonts/type1/public/amsfonts/cm/cmsy5.pfb><C:/Users/Acer/AppData/Local/Program
+s/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy6.pfb><C:/Users/Acer/AppData/Local/
+Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy7.pfb><C:/Users/Acer/AppData
+/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy8.pfb><C:/Users/Acer/
+AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy9.pfb><C:/User
+s/Acer/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmti10.pfb>
+<C:/Users/Acer/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmt
+i8.pfb><C:/Users/Acer/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts
+/symbols/msbm10.pfb>
 Output written on "C:\Users\Acer\OneDrive - Università di Napoli Federico II\U
 niversità\esami magistrale\Field and service\FSR_Notes\FSR_Notes\build\FSR_Not
-es.pdf" (93 pages, 3774460 bytes).
+es.pdf" (75 pages, 3767587 bytes).
 PDF statistics:
- 1438 PDF objects out of 1440 (max. 8388607)
- 406 named destinations out of 1000 (max. 500000)
- 931 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 1375 PDF objects out of 1440 (max. 8388607)
+ 392 named destinations out of 1000 (max. 500000)
+ 947 words of extra memory for PDF output out of 10000 (max. 10000000)
 

@@ -23,7 +23,8 @@
         \end{itemize}
     \end{itemize}
     \section{Configuration Space and Degrees of Freedom}
-    As previously stated, a mobile robot is free to move in its environment, which immediately begs the question of how to describe such a system. A complete specification of the robot's points is called \textit{configuration} of the robot, which will be assumed as the interconnection of fully rigid links by means of joints. This simplification greatly reduces the number of parameters needed to describe the robot's full configuration, as is known by any course in mechanics; then, the minimum number of real-valued coordinates needed to represent the configuration is called \textit{Degrees Of Freedom} of the system. By merging the two definitions, the \textit{Configuration Space} of a robot can be defined as:
+    As previously stated, a mobile robot is free to move in its environment, which immediately begs the question of how to describe such a system.
+     The robot’s \textbf{configuration} is the specification of the positions of all points of the robots, which will be assumed as the interconnection of fully rigid links by means of joints. This simplification greatly reduces the number of parameters needed to describe the robot's full configuration; then, the minimum number of real-valued coordinates needed to represent the configuration is called \textit{Degrees Of Freedom} of the system. By merging the two definitions, the \textit{Configuration Space} of a robot can be defined as:
     \begin{definition}
         \textbf{Configuration Space}: The $n$-dimensional space, where $n$ is the robot's number of DoFs, containing all the possible robot's configurations is called the \textit{Configuration Space} (C-space). The configuration of a robot is represented by a point in its C-space.
     \end{definition}
@@ -37,7 +38,7 @@
         \begin{equation}\label{Grubler's formula}
             DoFs = m(N-1)-\sum_{i=1}^{J}c_i=m(N-1-J)+\sum_{i=1}^{J}f_i
         \end{equation}
-        The equation is exact in the case of fully independent constraints.
+        The equation is exact in the case of fully independent constraints, otherwise it is a \textbf{lower bound} for the number of DoFs of the mechanism.
     \end{definition}
     Different joints can give different DoFs based on their structure; in the following table, the most famous joints and their respective characteristic are summarized:
    \begin{figure}[htbp!]
@@ -53,9 +54,48 @@
     \caption{Table of joints' characteristics.}
     \label{fig:joints_charas}
 \end{figure}\\
+\newpage
+\subsection{Gr\"{u}ber's Formula examples}
     Let's see some examples of how to use Gr\"{u}bler's formula.
     \begin{itemize}
-        \item (A mechanism with overlapping joints):
+    \item Four bar Linkage \\
+    
+    
+ \begin{figure}[htbp!]
+                \begin{minipage}{0.4\textwidth}
+                    We have 4 Links (considering the ground link) and 4 \textit{Revolute} Joints. We are considering the model in the plane, thus we have that 
+\[
+ N=4 (\text{four links}), J = 4 (\text{four joints}), m = 3 (\text{plane}),
+ \]\[ f_i = 1 (\text{Revolute Joints in the plane})              
+                    \]   
+                    By applying Gruber's rule
+                    \[DoFs=3(4-1-4)+4 = 1\]
+                 
+                \end{minipage}\hfill
+                \begin{minipage}{0.5\textwidth}
+                    \input{Tikz/four_bar_linkage.tex}
+                \end{minipage} 
+            \end{figure} 
+Now here come the most complex part: understanding the presence of dependent constraints. By reasoning about the model we can notice that by moving just one joint, the position of all the other joints is imposed, thus we showed that the DoFs is properly one.
+\item Slider-Crank \\
+   
+ \begin{figure}[htbp!]
+                \begin{minipage}{0.4\textwidth}
+                    We have 4 Links (considering the ground link) and 4 \textit{Revolute} Joints. We are considering the model in the plane, thus we have that 
+\[
+ N=4 (\text{four links}), J = 4 (\text{four joints}), m = 3 (\text{plane}),
+ \]\[ f_i = 1 (\text{3 Revolute and 1 prismatic})              
+                    \]   
+                    By applying Gruber's rule
+                    \[DoFs=3(4-1-4)+4 = 1\]
+                 
+                \end{minipage}\hfill
+                \begin{minipage}{0.5\textwidth}
+                    \input{Tikz/slider_crank.tex}
+                \end{minipage} 
+            \end{figure} 
+
+        \item A mechanism with overlapping joints:
             \begin{figure}[htbp!]
                 \begin{minipage}{0.4\textwidth}
                     \centering                  

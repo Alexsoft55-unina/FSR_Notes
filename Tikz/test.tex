@@ -1,0 +1,77 @@
+\documentclass[tikz,border=10pt]{standalone}
+\usetikzlibrary{calc}
+
+\begin{document}
+\begin{tikzpicture}[>=latex]
+
+    % === Parametri del meccanismo ===
+    \def\crankangle{50}   % Angolo della manovella
+    \def\cranklen{2.5}    % Lunghezza manovella (OA)
+    \def\rodlen{5}        % Lunghezza biella (AB)
+
+    % === Calcolo delle coordinate ===
+    % O: Perno fisso (origine)
+    \coordinate (O) at (0, 1);
+    % A: Perno manovella-biella
+    \coordinate (A) at ({\cranklen*cos(\crankangle)}, {1 + \cranklen*sin(\crankangle)});
+    % B: Perno del cursore (intersezione asse orizzontale)
+    \pgfmathsetmacro{\Bx}{\cranklen*cos(\crankangle) + sqrt(\rodlen^2 - (\cranklen*sin(\crankangle))^2)}
+    \coordinate (B) at (\Bx, 1);
+
+    % === 1. Guide fisse e Asta del cursore (sullo sfondo) ===
+    % Asta orizzontale
+    \draw[thick] (4.0, 0.9) -- (8.5, 0.9);
+    \draw[thick] (4.0, 1.1) -- (8.5, 1.1);
+    
+    % Guida fissa sinistra (con tratteggi)
+    \draw[thick] (4.0, 0.7) -- (4.0, 1.3);
+    \foreach \y in {8, 9, 10, 11, 12, 13} {
+        \draw[thick] (4.0, \y/10) -- (3.85, \y/10 - 0.1);
+    }
+    
+    % Guida fissa destra (con tratteggi)
+    \draw[thick] (8.5, 0.7) -- (8.5, 1.3);
+    \foreach \y in {8, 9, 10, 11, 12, 13} {
+        \draw[thick] (8.5, \y/10) -- (8.65, \y/10 - 0.1);
+    }
+
+    % === 2. Base del perno fisso (O) e Terra ===
+    \draw[thick, fill=white] (-0.35, 0.4) -- (-0.35, 1) -- (0.35, 1) -- (0.35, 0.4) -- cycle;
+    \draw[thick] (-0.8, 0.4) -- (0.8, 0.4); % Linea di terra
+    \foreach \x in {-7, -6, -5, -4, -3, -2, -1, 0, 1, 2, 3, 4, 5, 6, 7} {
+        \draw[thick] (\x/10, 0.4) -- (\x/10 - 0.15, 0.2); % Tratteggi terra
+    }
+
+    % === 3. Blocco Cursore (Slider) ===
+    \draw[thick, fill=white] ($(B)+(-0.8,-0.5)$) rectangle ($(B)+(0.8,0.5)$);
+
+    % === 4. Biella (Collegamento AB) ===
+    % Disegniamo una linea spessa nera e ci sovrapponiamo una linea bianca un po' più sottile
+    \draw[line width=18pt, black, line cap=round] (A) -- (B);
+    \draw[line width=15pt, white, line cap=round] (A) -- (B);
+
+    % === 5. Manovella (Collegamento OA) ===
+    % Disegnata dopo la biella in modo da sovrapporsi a essa sul giunto A
+    \draw[line width=18pt, black, line cap=round] (O) -- (A);
+    \draw[line width=15pt, white, line cap=round] (O) -- (A);
+
+    % === 6. Giunti / Perni di collegamento ===
+    % Cerchi esterni (coprono le imperfezioni e creano le "teste" dei bracci)
+    \draw[thick, fill=white] (O) circle (0.35);
+    \draw[thick, fill=white] (A) circle (0.35);
+    \draw[thick, fill=white] (B) circle (0.35);
+
+    % Cerchi interni (i veri e propri perni)
+    \draw[thick] (O) circle (0.15);
+    \draw[thick] (A) circle (0.15);
+    \draw[thick] (B) circle (0.15);
+
+    % === 7. Frecce di indicazione movimento ===
+    % Freccia di rotazione (Manovella)
+    \draw[line width=2.5pt, -latex] ($(O)+(130:1.3)$) arc (130:190:1.3);
+
+    % Freccia di traslazione (Cursore)
+    \draw[line width=2pt, latex-latex] ($(B)+(-1.2,-0.9)$) -- ($(B)+(1.2,-0.9)$);
+
+\end{tikzpicture}
+\end{document}
