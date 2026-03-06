@@ -40,12 +40,19 @@
         The equation is exact in the case of fully independent constraints.
     \end{definition}
     Different joints can give different DoFs based on their structure; in the following table, the most famous joints and their respective characteristic are summarized:
-    \begin{figure}[h!]
+   \begin{figure}[htbp!]
+    \centering
+    \begin{minipage}{0.48\textwidth}
         \centering
-        \includegraphics[width=0.5\linewidth]{Images/image2.png}
-        \caption{Table of joints' characteristics.}
-        \label{fig:joints_charas}
-    \end{figure} \\
+        \includegraphics[width=\linewidth]{Images/typical_robot_joints.png}
+    \end{minipage}\hfill
+    \begin{minipage}{0.48\textwidth}
+        \centering
+        \includegraphics[width=\linewidth]{Images/image2.png}
+    \end{minipage}
+    \caption{Table of joints' characteristics.}
+    \label{fig:joints_charas}
+\end{figure}\\
     Let's see some examples of how to use Gr\"{u}bler's formula.
     \begin{itemize}
         \item (A mechanism with overlapping joints):
@@ -82,7 +89,7 @@
             A mechanism with zero degrees of freedom is by definition a rigid structure. It is clear from examining the figure, though, that the mechanism can in fact move with one degree of freedom. Indeed, any one of the three parallel links, with its two joints, has no effect on the motion of the mechanism, so we should have calculated $DoFs = 3(4-1-4) + 4 = 1$. In other words, the constraints provided by the joints are not independent, as required by Gr\"{u}bler’s formula. \\
             A similar situation arises for the two-DoFs planar five-bar linkage: if the two joints connected to ground are locked at some fixed angle, the five-bar linkage should then become a rigid structure. However, if the two middle links are the same length and overlap each other, these overlapping links can rotate freely about the two overlapping joints.
             \newpage
-        \item (Delta Robot)
+        \item Delta Robot:
             \begin{figure}[htbp!]
                 \begin{minipage}{0.4\textwidth}
                     \centering                  
@@ -104,7 +111,11 @@
             \item If $\mathcal{O}\subseteq \tau$, then $\cup_{O\in\mathcal{O}}O\in\tau$
         \end{itemize}
         Then, the couple $(X,\tau)$ is called a \textit{Topological Space}.}. \\
-        Consider a plane and the surface of a sphere; to completely specify the position of a point in both spaces, there is need for only two coordinates (the $x,y$ coordinates in the plane or the longitude/latitude on the sphere), however the \textit{shape} of the two spaces is different: coordinates can wrap around on the surface of a sphere, meanwhile they cannot on the plane. Two spheres can be, however, be thought of as "the same" just deformed and are called \textit{topologically equivalent}; in general:
+        Consider a plane and the surface of a sphere; to completely specify the position of a point in both spaces, there is need for only two coordinates (the $x,y$ coordinates in the plane or the longitude/latitude on the sphere), however the \textit{shape} of the two spaces is different: coordinates can wrap around on the surface of a sphere, meanwhile they cannot on the plane. Two spheres can be, however, be thought of as "the same" just deformed and are called \textit{topologically equivalent}; 
+        \section{Topology Definition}
+        A topological space can be expressed through different kind of definition. The main elements of topology are the open sets, the neighbourhoods and the points.
+         More specifically, a topological space is a set whose elements are called points, along with an additional structure called a topology, which can be defined as a set of neighbourhoods for each point that satisfy some axioms formalizing the concept of closeness. There are several equivalent definitions of a topology, the most commonly used of which is the definition through open sets. 
+         a topological space is, roughly speaking, a geometrical space in which closeness is defined but cannot necessarily be measured by a numeric distance.
         \begin{definition}
             \textit{Topological Equivalence}: A function $f:X \rightarrow Y$ between two topological spaces is a \textit{homeomorphism} if: 
             \begin{itemize}
@@ -151,7 +162,59 @@
             \end{itemize}
         \end{itemize}
         From now on, only implicit representations will be used.
-        \section{Task space and Workspace}
+\subsection{Exercises}
+\paragraph{ProDrone a Six propellers plus two 5-DoFs arms drone:}
+ \begin{figure}[htbp!]
+                \begin{minipage}{0.4\textwidth}
+                    \centering                  
+                    \includegraphics[width=\textwidth]{Images/ProDrone.jpg}
+                    \caption{ProDrone}
+                    \label{fig:ProDrone}
+                    \end{minipage}
+\hfill
+                \begin{minipage}{0.6\textwidth}
+        
+\begin{itemize}
+\item Body fixed on the ground
+\begin{itemize}
+\item 6 rotating propellers (1 link plus 1 rotational joint each)
+\item 5 rotational joints for each arm
+\item 1 Ground
+\item DoFs = $6(6+5+5+1-1-6-5-5)+6+5+6 = 16$
+\end{itemize}
+\item Flying body
+\begin{itemize}
+\item 6 DoFs given by the spatial rigid body
+\item DoFs = $16 + 6 = 22 $
+\end{itemize}
+\end{itemize}
+                \end{minipage} 
+            \end{figure}            
+          
+ \paragraph{Mobile Kuka a Mobile manipulator arms robot:}
+ \begin{figure}[htbp!]
+                \begin{minipage}{0.4\textwidth}
+                    \centering                  
+                    \includegraphics[width=\textwidth]{Images/Mobile_Kuka.jpg}
+                    \caption{Mobile Kuka}
+                    \label{fig:Mobile_Kuka}
+                    \end{minipage}
+\hfill
+                \begin{minipage}{0.6\textwidth}
+        
+\begin{itemize}
+\item KUKA youBot with 4 mecanum-wheels (omnidirecitonal base) plus 5-DoF robotic arm
+\begin{itemize}
+\item 4 wheels (1 link plus 1 rotational joint each)
+\item A planar rigid body (3 DoFs)
+\item 5 rotational joints for the arm
+\item 12 DoFs
+\end{itemize}
+\end{itemize}
+                \end{minipage} 
+            \end{figure}
+        \newpage
+\section{Task space and Workspace}
         The C-space is related to the configuration of the entire robot; however, there are also other two spaces of interest, both only linked to the robot's end-effector: the \textit{Task Space} and the \textit{Workspace}. 
         \begin{definition}
             \textbf{Task Space}: The \textit{Task Space} is a space in which a robot's task can naturally be expressed.

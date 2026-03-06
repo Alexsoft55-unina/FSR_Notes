@@ -1,0 +1,1831 @@
+This is pdfTeX, Version 3.141592653-2.6-1.40.27 (MiKTeX 25.4) (preloaded format=pdflatex 2025.11.12)  5 MAR 2026 23:22
+entering extended mode
+ restricted \write18 enabled.
+ %&-line parsing enabled.
+**./FSR_Notes.tex
+(FSR_Notes.tex
+LaTeX2e <2025-11-01>
+L3 programming layer <2025-10-24>
+(C:\Users\Acer\AppData\Local\Programs\MiKTeX\tex/latex/base\book.cls
+Document Class: book 2025/01/22 v1.4n Standard LaTeX document class
+(C:\Users\Acer\AppData\Local\Programs\MiKTeX\tex/latex/base\bk10.clo
+File: bk10.clo 2025/01/22 v1.4n Standard LaTeX file (size option)
+)
+\c@part=\count275
+\c@chapter=\count276
+\c@section=\count277
+\c@subsection=\count278
+\c@subsubsection=\count279
+\c@paragraph=\count280
+\c@subparagraph=\count281
+\c@figure=\count282
+\c@table=\count283
+\abovecaptionskip=\skip49
+\belowcaptionskip=\skip50
+\bibindent=\dimen148
+)
+(C:\Users\Acer\AppData\Local\Programs\MiKTeX\tex/latex/graphics\graphicx.sty
+Package: graphicx 2024/12/31 v1.2e Enhanced LaTeX Graphics (DPC,SPQR)
+
+(C:\Users\Acer\AppData\Local\Programs\MiKTeX\tex/latex/graphics\keyval.sty
+Package: keyval 2022/05/29 v1.15 key=value parser (DPC)
+\KV@toks@=\toks17
+)
+(C:\Users\Acer\AppData\Local\Programs\MiKTeX\tex/latex/graphics\graphics.sty
+Package: graphics 2024/08/06 v1.4g Standard LaTeX Graphics (DPC,SPQR)
+
+(C:\Users\Acer\AppData\Local\Programs\MiKTeX\tex/latex/graphics\trig.sty
+Package: trig 2023/12/02 v1.11 sin cos tan (DPC)
+)
+(C:\Users\Acer\AppData\Local\Programs\MiKTeX\tex/latex/graphics-cfg\graphics.cf
+g
+File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
+)
+Package graphics Info: Driver file: pdftex.def on input line 106.
+
+(C:\Users\Acer\AppData\Local\Programs\MiKTeX\tex/latex/graphics-def\pdftex.def
+File: pdftex.def 2025/09/29 v1.2d Graphics/color driver for pdftex
+))
+\Gin@req@height=\dimen149
+\Gin@req@width=\dimen150
+) (C:\Users\Acer\AppData\Local\Programs\MiKTeX\tex/latex/amsmath\amsmath.sty
+Package: amsmath 2025/07/09 v2.17z AMS math features
+\@mathmargin=\skip51
+
+For additional information on amsmath, use the `?' option.
+(C:\Users\Acer\AppData\Local\Programs\MiKTeX\tex/latex/amsmath\amstext.sty
+Package: amstext 2024/11/17 v2.01 AMS text
+
+(C:\Users\Acer\AppData\Local\Programs\MiKTeX\tex/latex/amsmath\amsgen.sty
+File: amsgen.sty 1999/11/30 v2.0 generic functions
+\@emptytoks=\toks18
+\ex@=\dimen151
+))
+(C:\Users\Acer\AppData\Local\Programs\MiKTeX\tex/latex/amsmath\amsbsy.sty
+Package: amsbsy 1999/11/29 v1.2d Bold Symbols
+\pmbraise@=\dimen152
+)
+(C:\Users\Acer\AppData\Local\Programs\MiKTeX\tex/latex/amsmath\amsopn.sty
+Package: amsopn 2022/04/08 v2.04 operator names
+)
+\inf@bad=\count284
+LaTeX Info: Redefining \frac on input line 233.
+\uproot@=\count285
+\leftroot@=\count286
+LaTeX Info: Redefining \overline on input line 398.
+LaTeX Info: Redefining \colon on input line 409.
+\classnum@=\count287
+\DOTSCASE@=\count288
+LaTeX Info: Redefining \ldots on input line 495.
+LaTeX Info: Redefining \dots on input line 498.
+LaTeX Info: Redefining \cdots on input line 619.
+\Mathstrutbox@=\box53
+\strutbox@=\box54
+LaTeX Info: Redefining \big on input line 721.
+LaTeX Info: Redefining \Big on input line 722.
+LaTeX Info: Redefining \bigg on input line 723.
+LaTeX Info: Redefining \Bigg on input line 724.
+\big@size=\dimen153
+LaTeX Font Info:    Redeclaring font encoding OML on input line 742.
+LaTeX Font Info:    Redeclaring font encoding OMS on input line 743.
+\macc@depth=\count289
+LaTeX Info: Redefining \bmod on input line 904.
+LaTeX Info: Redefining \pmod on input line 909.
+LaTeX Info: Redefining \smash on input line 939.
+LaTeX Info: Redefining \relbar on input line 969.
+LaTeX Info: Redefining \Relbar on input line 970.
+\c@MaxMatrixCols=\count290
+\dotsspace@=\muskip17
+\c@parentequation=\count291
+\dspbrk@lvl=\count292
+\tag@help=\toks19
+\row@=\count293
+\column@=\count294
+\maxfields@=\count295
+\andhelp@=\toks20
+\eqnshift@=\dimen154
+\alignsep@=\dimen155
+\tagshift@=\dimen156
+\tagwidth@=\dimen157
+\totwidth@=\dimen158
+\lineht@=\dimen159
+\@envbody=\toks21
+\multlinegap=\skip52
+\multlinetaggap=\skip53
+\mathdisplay@stack=\toks22
+LaTeX Info: Redefining \[ on input line 2950.
+LaTeX Info: Redefining \] on input line 2951.
+)
+(C:\Users\Acer\AppData\Local\Programs\MiKTeX\tex/latex/amsfonts\amssymb.sty
+Package: amssymb 2013/01/14 v3.01 AMS font symbols
+
+(C:\Users\Acer\AppData\Local\Programs\MiKTeX\tex/latex/amsfonts\amsfonts.sty
+Package: amsfonts 2013/01/14 v3.01 Basic AMSFonts support
+\symAMSa=\mathgroup4
+\symAMSb=\mathgroup5
+LaTeX Font Info:    Redeclaring math symbol \hbar on input line 98.
+LaTeX Font Info:    Overwriting math alphabet `\mathfrak' in version `bold'
+(Font)                  U/euf/m/n --> U/euf/b/n on input line 106.
+))
+(C:\Users\Acer\AppData\Local\Programs\MiKTeX\tex/latex/amscls\amsthm.sty
+Package: amsthm 2020/05/29 v2.20.6
+\thm@style=\toks23
+\thm@bodyfont=\toks24
+\thm@headfont=\toks25
+\thm@notefont=\toks26
+\thm@headpunct=\toks27
+\thm@preskip=\skip54
+\thm@postskip=\skip55
+\thm@headsep=\skip56
+\dth@everypar=\toks28
+)
+(C:\Users\Acer\AppData\Local\Programs\MiKTeX\tex/latex/caption\subcaption.sty
+Package: subcaption 2023/07/28 v1.6b Sub-captions (AR)
+
+(C:\Users\Acer\AppData\Local\Programs\MiKTeX\tex/latex/caption\caption.sty
+Package: caption 2023/08/05 v3.6o Customizing captions (AR)
+
+(C:\Users\Acer\AppData\Local\Programs\MiKTeX\tex/latex/caption\caption3.sty
+Package: caption3 2023/07/31 v2.4d caption3 kernel (AR)
+\caption@tempdima=\dimen160
+\captionmargin=\dimen161
+\caption@leftmargin=\dimen162
+\caption@rightmargin=\dimen163
+\caption@width=\dimen164
+\caption@indent=\dimen165
+\caption@parindent=\dimen166
+\caption@hangindent=\dimen167
+Package caption Info: Standard document class detected.
+)
+\c@caption@flags=\count296
+\c@continuedfloat=\count297
+)
+Package caption Info: New subtype `subfigure' on input line 238.
+\c@subfigure=\count298
+Package caption Info: New subtype `subtable' on input line 238.
+\c@subtable=\count299
+)
+(C:\Users\Acer\AppData\Local\Programs\MiKTeX\tex/latex/adjustbox\adjustbox.sty
+Package: adjustbox 2025/02/26 v1.3c Adjusting TeX boxes (trim, clip, ...)
+
+(C:\Users\Acer\AppData\Local\Programs\MiKTeX\tex/latex/xkeyval\xkeyval.sty
+Package: xkeyval 2022/06/16 v2.9 package option processing (HA)
+
+(C:\Users\Acer\AppData\Local\Programs\MiKTeX\tex/generic/xkeyval\xkeyval.tex
+(C:\Users\Acer\AppData\Local\Programs\MiKTeX\tex/generic/xkeyval\xkvutils.tex
+\XKV@toks=\toks29
+\XKV@tempa@toks=\toks30
+)
+\XKV@depth=\count300
+File: xkeyval.tex 2014/12/03 v2.7a key=value parser (HA)
+)) (C:\Users\Acer\AppData\Local\Programs\MiKTeX\tex/latex/adjustbox\adjcalc.sty
+Package: adjcalc 2012/05/16 v1.1 Provides advanced setlength with multiple back
+-ends (calc, etex, pgfmath)
+) (C:\Users\Acer\AppData\Local\Programs\MiKTeX\tex/latex/adjustbox\trimclip.sty
+Package: trimclip 2025/02/21 v1.2a Trim and clip general TeX material
+
+(C:\Users\Acer\AppData\Local\Programs\MiKTeX\tex/latex/collectbox\collectbox.st
+y
+Package: collectbox 2022/10/17 v0.4c Collect macro arguments as boxes
+\collectedbox=\box55
+)
+\tc@llx=\dimen168
+\tc@lly=\dimen169
+\tc@urx=\dimen170
+\tc@ury=\dimen171
+Package trimclip Info: Using driver 'tc-pdftex.def'.
+
+(C:\Users\Acer\AppData\Local\Programs\MiKTeX\tex/latex/adjustbox\tc-pdftex.def
+File: tc-pdftex.def 2025/02/26 v2.3 Clipping driver for pdftex
+))
+\adjbox@Width=\dimen172
+\adjbox@Height=\dimen173
+\adjbox@Depth=\dimen174
+\adjbox@Totalheight=\dimen175
+\adjbox@pwidth=\dimen176
+\adjbox@pheight=\dimen177
+\adjbox@pdepth=\dimen178
+\adjbox@ptotalheight=\dimen179
+
+(C:\Users\Acer\AppData\Local\Programs\MiKTeX\tex/latex/ifoddpage\ifoddpage.sty
+Package: ifoddpage 2022/10/18 v1.2 Conditionals for odd/even page detection
+\c@checkoddpage=\count301
+) (C:\Users\Acer\AppData\Local\Programs\MiKTeX\tex/latex/varwidth\varwidth.sty
+Package: varwidth 2009/03/30 ver 0.92;  Variable-width minipages
+\@vwid@box=\box56
+\sift@deathcycles=\count302
+\@vwid@loff=\dimen180
+\@vwid@roff=\dimen181
+)
+==> First Aid for varwidth.sty applied!
+)
+(C:\Users\Acer\AppData\Local\Programs\MiKTeX\tex/latex/pgf/frontendlayer\tikz.s
+ty
+(C:\Users\Acer\AppData\Local\Programs\MiKTeX\tex/latex/pgf/basiclayer\pgf.sty
+(C:\Users\Acer\AppData\Local\Programs\MiKTeX\tex/latex/pgf/utilities\pgfrcs.sty
+
+(C:\Users\Acer\AppData\Local\Programs\MiKTeX\tex/generic/pgf/utilities\pgfutil-
+common.tex
+\pgfutil@everybye=\toks31
+\pgfutil@tempdima=\dimen182
+\pgfutil@tempdimb=\dimen183
+)
+(C:\Users\Acer\AppData\Local\Programs\MiKTeX\tex/generic/pgf/utilities\pgfutil-
+latex.def
+\pgfutil@abb=\box57
+)
+(C:\Users\Acer\AppData\Local\Programs\MiKTeX\tex/generic/pgf/utilities\pgfrcs.c
+ode.tex
+(C:\Users\Acer\AppData\Local\Programs\MiKTeX\tex/generic/pgf\pgf.revision.tex)
+Package: pgfrcs 2025-08-29 v3.1.11a (3.1.11a)
+))
+Package: pgf 2025-08-29 v3.1.11a (3.1.11a)
+
+(C:\Users\Acer\AppData\Local\Programs\MiKTeX\tex/latex/pgf/basiclayer\pgfcore.s
+ty
+(C:\Users\Acer\AppData\Local\Programs\MiKTeX\tex/latex/pgf/systemlayer\pgfsys.s
+ty
+(C:\Users\Acer\AppData\Local\Programs\MiKTeX\tex/generic/pgf/systemlayer\pgfsys
+.code.tex
+Package: pgfsys 2025-08-29 v3.1.11a (3.1.11a)
+
+(C:\Users\Acer\AppData\Local\Programs\MiKTeX\tex/generic/pgf/utilities\pgfkeys.
+code.tex
+\pgfkeys@pathtoks=\toks32
+\pgfkeys@temptoks=\toks33
+
+(C:\Users\Acer\AppData\Local\Programs\MiKTeX\tex/generic/pgf/utilities\pgfkeysl
+ibraryfiltered.code.tex
+\pgfkeys@tmptoks=\toks34
+))
+\pgf@x=\dimen184
+\pgf@y=\dimen185
+\pgf@xa=\dimen186
+\pgf@ya=\dimen187
+\pgf@xb=\dimen188
+\pgf@yb=\dimen189
+\pgf@xc=\dimen190
+\pgf@yc=\dimen191
+\pgf@xd=\dimen192
+\pgf@yd=\dimen193
+\w@pgf@writea=\write3
+\r@pgf@reada=\read2
+\c@pgf@counta=\count303
+\c@pgf@countb=\count304
+\c@pgf@countc=\count305
+\c@pgf@countd=\count306
+\t@pgf@toka=\toks35
+\t@pgf@tokb=\toks36
+\t@pgf@tokc=\toks37
+\pgf@sys@id@count=\count307
+
+(C:\Users\Acer\AppData\Local\Programs\MiKTeX\tex/generic/pgf/systemlayer\pgf.cf
+g
+File: pgf.cfg 2025-08-29 v3.1.11a (3.1.11a)
+)
+Driver file for pgf: pgfsys-pdftex.def
+
+(C:\Users\Acer\AppData\Local\Programs\MiKTeX\tex/generic/pgf/systemlayer\pgfsys
+-pdftex.def
+File: pgfsys-pdftex.def 2025-08-29 v3.1.11a (3.1.11a)
+
+(C:\Users\Acer\AppData\Local\Programs\MiKTeX\tex/generic/pgf/systemlayer\pgfsys
+-common-pdf.def
+File: pgfsys-common-pdf.def 2025-08-29 v3.1.11a (3.1.11a)
+)))
+(C:\Users\Acer\AppData\Local\Programs\MiKTeX\tex/generic/pgf/systemlayer\pgfsys
+softpath.code.tex
+File: pgfsyssoftpath.code.tex 2025-08-29 v3.1.11a (3.1.11a)
+\pgfsyssoftpath@smallbuffer@items=\count308
+\pgfsyssoftpath@bigbuffer@items=\count309
+)
+(C:\Users\Acer\AppData\Local\Programs\MiKTeX\tex/generic/pgf/systemlayer\pgfsys
+protocol.code.tex
+File: pgfsysprotocol.code.tex 2025-08-29 v3.1.11a (3.1.11a)
+))
+(C:\Users\Acer\AppData\Local\Programs\MiKTeX\tex/latex/xcolor\xcolor.sty
+Package: xcolor 2024/09/29 v3.02 LaTeX color extensions (UK)
+
+(C:\Users\Acer\AppData\Local\Programs\MiKTeX\tex/latex/graphics-cfg\color.cfg
+File: color.cfg 2016/01/02 v1.6 sample color configuration
+)
+Package xcolor Info: Driver file: pdftex.def on input line 274.
+
+(C:\Users\Acer\AppData\Local\Programs\MiKTeX\tex/latex/graphics\mathcolor.ltx)
+Package xcolor Info: Model `cmy' substituted by `cmy0' on input line 1349.
+Package xcolor Info: Model `hsb' substituted by `rgb' on input line 1353.
+Package xcolor Info: Model `RGB' extended on input line 1365.
+Package xcolor Info: Model `HTML' substituted by `rgb' on input line 1367.
+Package xcolor Info: Model `Hsb' substituted by `hsb' on input line 1368.
+Package xcolor Info: Model `tHsb' substituted by `hsb' on input line 1369.
+Package xcolor Info: Model `HSB' substituted by `hsb' on input line 1370.
+Package xcolor Info: Model `Gray' substituted by `gray' on input line 1371.
+Package xcolor Info: Model `wave' substituted by `hsb' on input line 1372.
+)
+(C:\Users\Acer\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcore
+.code.tex
+Package: pgfcore 2025-08-29 v3.1.11a (3.1.11a)
+
+(C:\Users\Acer\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmath.code.
+tex
+(C:\Users\Acer\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathutil.c
+ode.tex)
+(C:\Users\Acer\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathparser
+.code.tex
+\pgfmath@dimen=\dimen194
+\pgfmath@count=\count310
+\pgfmath@box=\box58
+\pgfmath@toks=\toks38
+\pgfmath@stack@operand=\toks39
+\pgfmath@stack@operation=\toks40
+)
+(C:\Users\Acer\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathfuncti
+ons.code.tex)
+(C:\Users\Acer\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathfuncti
+ons.basic.code.tex)
+(C:\Users\Acer\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathfuncti
+ons.trigonometric.code.tex)
+(C:\Users\Acer\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathfuncti
+ons.random.code.tex)
+(C:\Users\Acer\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathfuncti
+ons.comparison.code.tex)
+(C:\Users\Acer\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathfuncti
+ons.base.code.tex)
+(C:\Users\Acer\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathfuncti
+ons.round.code.tex)
+(C:\Users\Acer\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathfuncti
+ons.misc.code.tex)
+(C:\Users\Acer\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathfuncti
+ons.integerarithmetics.code.tex)
+(C:\Users\Acer\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathcalc.c
+ode.tex)
+(C:\Users\Acer\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathfloat.
+code.tex
+\c@pgfmathroundto@lastzeros=\count311
+))
+(C:\Users\Acer\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfint.code.t
+ex)
+(C:\Users\Acer\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcore
+points.code.tex
+File: pgfcorepoints.code.tex 2025-08-29 v3.1.11a (3.1.11a)
+\pgf@picminx=\dimen195
+\pgf@picmaxx=\dimen196
+\pgf@picminy=\dimen197
+\pgf@picmaxy=\dimen198
+\pgf@pathminx=\dimen199
+\pgf@pathmaxx=\dimen256
+\pgf@pathminy=\dimen257
+\pgf@pathmaxy=\dimen258
+\pgf@xx=\dimen259
+\pgf@xy=\dimen260
+\pgf@yx=\dimen261
+\pgf@yy=\dimen262
+\pgf@zx=\dimen263
+\pgf@zy=\dimen264
+)
+(C:\Users\Acer\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcore
+pathconstruct.code.tex
+File: pgfcorepathconstruct.code.tex 2025-08-29 v3.1.11a (3.1.11a)
+\pgf@path@lastx=\dimen265
+\pgf@path@lasty=\dimen266
+)
+(C:\Users\Acer\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcore
+pathusage.code.tex
+File: pgfcorepathusage.code.tex 2025-08-29 v3.1.11a (3.1.11a)
+\pgf@shorten@end@additional=\dimen267
+\pgf@shorten@start@additional=\dimen268
+)
+(C:\Users\Acer\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcore
+scopes.code.tex
+File: pgfcorescopes.code.tex 2025-08-29 v3.1.11a (3.1.11a)
+\pgfpic=\box59
+\pgf@hbox=\box60
+\pgf@layerbox@main=\box61
+\pgf@picture@serial@count=\count312
+)
+(C:\Users\Acer\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcore
+graphicstate.code.tex
+File: pgfcoregraphicstate.code.tex 2025-08-29 v3.1.11a (3.1.11a)
+\pgflinewidth=\dimen269
+)
+(C:\Users\Acer\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcore
+transformations.code.tex
+File: pgfcoretransformations.code.tex 2025-08-29 v3.1.11a (3.1.11a)
+\pgf@pt@x=\dimen270
+\pgf@pt@y=\dimen271
+\pgf@pt@temp=\dimen272
+)
+(C:\Users\Acer\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcore
+quick.code.tex
+File: pgfcorequick.code.tex 2025-08-29 v3.1.11a (3.1.11a)
+)
+(C:\Users\Acer\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcore
+objects.code.tex
+File: pgfcoreobjects.code.tex 2025-08-29 v3.1.11a (3.1.11a)
+)
+(C:\Users\Acer\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcore
+pathprocessing.code.tex
+File: pgfcorepathprocessing.code.tex 2025-08-29 v3.1.11a (3.1.11a)
+)
+(C:\Users\Acer\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcore
+arrows.code.tex
+File: pgfcorearrows.code.tex 2025-08-29 v3.1.11a (3.1.11a)
+\pgfarrowsep=\dimen273
+)
+(C:\Users\Acer\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcore
+shade.code.tex
+File: pgfcoreshade.code.tex 2025-08-29 v3.1.11a (3.1.11a)
+\pgf@max=\dimen274
+\pgf@sys@shading@range@num=\count313
+\pgf@shadingcount=\count314
+)
+(C:\Users\Acer\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcore
+image.code.tex
+File: pgfcoreimage.code.tex 2025-08-29 v3.1.11a (3.1.11a)
+)
+(C:\Users\Acer\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcore
+external.code.tex
+File: pgfcoreexternal.code.tex 2025-08-29 v3.1.11a (3.1.11a)
+\pgfexternal@startupbox=\box62
+)
+(C:\Users\Acer\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcore
+layers.code.tex
+File: pgfcorelayers.code.tex 2025-08-29 v3.1.11a (3.1.11a)
+)
+(C:\Users\Acer\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcore
+transparency.code.tex
+File: pgfcoretransparency.code.tex 2025-08-29 v3.1.11a (3.1.11a)
+)
+(C:\Users\Acer\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcore
+patterns.code.tex
+File: pgfcorepatterns.code.tex 2025-08-29 v3.1.11a (3.1.11a)
+)
+(C:\Users\Acer\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcore
+rdf.code.tex
+File: pgfcorerdf.code.tex 2025-08-29 v3.1.11a (3.1.11a)
+)))
+(C:\Users\Acer\AppData\Local\Programs\MiKTeX\tex/generic/pgf/modules\pgfmodules
+hapes.code.tex
+File: pgfmoduleshapes.code.tex 2025-08-29 v3.1.11a (3.1.11a)
+\pgfnodeparttextbox=\box63
+)
+(C:\Users\Acer\AppData\Local\Programs\MiKTeX\tex/generic/pgf/modules\pgfmodulep
+lot.code.tex
+File: pgfmoduleplot.code.tex 2025-08-29 v3.1.11a (3.1.11a)
+)
+(C:\Users\Acer\AppData\Local\Programs\MiKTeX\tex/latex/pgf/compatibility\pgfcom
+p-version-0-65.sty
+Package: pgfcomp-version-0-65 2025-08-29 v3.1.11a (3.1.11a)
+\pgf@nodesepstart=\dimen275
+\pgf@nodesepend=\dimen276
+)
+(C:\Users\Acer\AppData\Local\Programs\MiKTeX\tex/latex/pgf/compatibility\pgfcom
+p-version-1-18.sty
+Package: pgfcomp-version-1-18 2025-08-29 v3.1.11a (3.1.11a)
+))
+(C:\Users\Acer\AppData\Local\Programs\MiKTeX\tex/latex/pgf/utilities\pgffor.sty
+
+(C:\Users\Acer\AppData\Local\Programs\MiKTeX\tex/latex/pgf/utilities\pgfkeys.st
+y
+(C:\Users\Acer\AppData\Local\Programs\MiKTeX\tex/generic/pgf/utilities\pgfkeys.
+code.tex))
+(C:\Users\Acer\AppData\Local\Programs\MiKTeX\tex/latex/pgf/math\pgfmath.sty
+(C:\Users\Acer\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmath.code.
+tex))
+(C:\Users\Acer\AppData\Local\Programs\MiKTeX\tex/generic/pgf/utilities\pgffor.c
+ode.tex
+Package: pgffor 2025-08-29 v3.1.11a (3.1.11a)
+\pgffor@iter=\dimen277
+\pgffor@skip=\dimen278
+\pgffor@stack=\toks41
+\pgffor@toks=\toks42
+))
+(C:\Users\Acer\AppData\Local\Programs\MiKTeX\tex/generic/pgf/frontendlayer/tikz
+\tikz.code.tex
+Package: tikz 2025-08-29 v3.1.11a (3.1.11a)
+
+(C:\Users\Acer\AppData\Local\Programs\MiKTeX\tex/generic/pgf/libraries\pgflibra
+ryplothandlers.code.tex
+File: pgflibraryplothandlers.code.tex 2025-08-29 v3.1.11a (3.1.11a)
+\pgf@plot@mark@count=\count315
+\pgfplotmarksize=\dimen279
+)
+\tikz@lastx=\dimen280
+\tikz@lasty=\dimen281
+\tikz@lastxsaved=\dimen282
+\tikz@lastysaved=\dimen283
+\tikz@lastmovetox=\dimen284
+\tikz@lastmovetoy=\dimen285
+\tikzleveldistance=\dimen286
+\tikzsiblingdistance=\dimen287
+\tikz@figbox=\box64
+\tikz@figbox@bg=\box65
+\tikz@tempbox=\box66
+\tikz@tempbox@bg=\box67
+\tikztreelevel=\count316
+\tikznumberofchildren=\count317
+\tikznumberofcurrentchild=\count318
+\tikz@fig@count=\count319
+
+(C:\Users\Acer\AppData\Local\Programs\MiKTeX\tex/generic/pgf/modules\pgfmodulem
+atrix.code.tex
+File: pgfmodulematrix.code.tex 2025-08-29 v3.1.11a (3.1.11a)
+\pgfmatrixcurrentrow=\count320
+\pgfmatrixcurrentcolumn=\count321
+\pgf@matrix@numberofcolumns=\count322
+)
+\tikz@expandcount=\count323
+
+(C:\Users\Acer\AppData\Local\Programs\MiKTeX\tex/generic/pgf/frontendlayer/tikz
+/libraries\tikzlibrarytopaths.code.tex
+File: tikzlibrarytopaths.code.tex 2025-08-29 v3.1.11a (3.1.11a)
+)))
+(C:\Users\Acer\AppData\Local\Programs\MiKTeX\tex/latex/base\makeidx.sty
+Package: makeidx 2021/10/04 v1.0m Standard LaTeX package
+)
+(C:\Users\Acer\AppData\Local\Programs\MiKTeX\tex/latex/wrapfig\wrapfig.sty
+\wrapoverhang=\dimen288
+\WF@size=\dimen289
+\c@WF@wrappedlines=\count324
+\WF@box=\box68
+\WF@everypar=\toks43
+Package: wrapfig 2003/01/31  v 3.6
+)
+(C:\Users\Acer\AppData\Local\Programs\MiKTeX\tex/latex/tools\multicol.sty
+Package: multicol 2025/10/21 v2.0b multicolumn formatting (FMi)
+\c@tracingmulticols=\count325
+\mult@box=\box69
+\multicol@leftmargin=\dimen290
+\c@unbalance=\count326
+\c@collectmore=\count327
+\doublecol@number=\count328
+\multicoltolerance=\count329
+\multicolpretolerance=\count330
+\full@width=\dimen291
+\page@free=\dimen292
+\premulticols=\dimen293
+\postmulticols=\dimen294
+\multicolsep=\skip57
+\multicolbaselineskip=\skip58
+\partial@page=\box70
+\last@line=\box71
+\mc@boxedresult=\box72
+\maxbalancingoverflow=\dimen295
+\mult@rightbox=\box73
+\mult@grightbox=\box74
+\mult@firstbox=\box75
+\mult@gfirstbox=\box76
+\@tempa=\box77
+\@tempa=\box78
+\@tempa=\box79
+\@tempa=\box80
+\@tempa=\box81
+\@tempa=\box82
+\@tempa=\box83
+\@tempa=\box84
+\@tempa=\box85
+\@tempa=\box86
+\@tempa=\box87
+\@tempa=\box88
+\@tempa=\box89
+\@tempa=\box90
+\@tempa=\box91
+\@tempa=\box92
+\@tempa=\box93
+\@tempa=\box94
+\@tempa=\box95
+\@tempa=\box96
+\@tempa=\box97
+\@tempa=\box98
+\@tempa=\box99
+\@tempa=\box100
+\@tempa=\box101
+\@tempa=\box102
+\@tempa=\box103
+\@tempa=\box104
+\@tempa=\box105
+\@tempa=\box106
+\@tempa=\box107
+\@tempa=\box108
+\@tempa=\box109
+\@tempa=\box110
+\@tempa=\box111
+\@tempa=\box112
+\c@minrows=\count331
+\c@columnbadness=\count332
+\c@finalcolumnbadness=\count333
+\last@try=\dimen296
+\multicolovershoot=\dimen297
+\multicolundershoot=\dimen298
+\mult@nat@firstbox=\box113
+\colbreak@box=\box114
+\mc@col@check@num=\count334
+\g__mc_curr_col_int=\count335
+)
+(C:\Users\Acer\AppData\Local\Programs\MiKTeX\tex/latex/lipsum\lipsum.sty
+(C:\Users\Acer\AppData\Local\Programs\MiKTeX\tex/latex/l3packages/l3keys2e\l3ke
+ys2e.sty
+(C:\Users\Acer\AppData\Local\Programs\MiKTeX\tex/latex/l3kernel\expl3.sty
+Package: expl3 2025-10-24 L3 programming layer (loader) 
+
+(C:\Users\Acer\AppData\Local\Programs\MiKTeX\tex/latex/l3backend\l3backend-pdft
+ex.def
+File: l3backend-pdftex.def 2025-10-09 L3 backend support: PDF output (pdfTeX)
+\l__color_backend_stack_int=\count336
+))
+Package: l3keys2e 2025-10-09 LaTeX2e option processing using LaTeX3 keys
+)
+Package: lipsum 2021-09-20 v2.7 150 paragraphs of Lorem Ipsum dummy text
+\g__lipsum_par_int=\count337
+\l__lipsum_a_int=\count338
+\l__lipsum_b_int=\count339
+
+(C:\Users\Acer\AppData\Local\Programs\MiKTeX\tex/latex/lipsum\lipsum.ltd.tex))
+(C:\Users\Acer\AppData\Local\Programs\MiKTeX\tex/generic/pgf/libraries\pgflibra
+ryarrows.meta.code.tex
+File: pgflibraryarrows.meta.code.tex 2025-08-29 v3.1.11a (3.1.11a)
+\pgfarrowinset=\dimen299
+\pgfarrowlength=\dimen300
+\pgfarrowwidth=\dimen301
+\pgfarrowlinewidth=\dimen302
+)
+(C:\Users\Acer\AppData\Local\Programs\MiKTeX\tex/latex/hyperref\hyperref.sty
+Package: hyperref 2025-07-12 v7.01o Hypertext links for LaTeX
+
+(C:\Users\Acer\AppData\Local\Programs\MiKTeX\tex/generic/iftex\iftex.sty
+Package: iftex 2024/12/12 v1.0g TeX engine tests
+)
+(C:\Users\Acer\AppData\Local\Programs\MiKTeX\tex/latex/kvsetkeys\kvsetkeys.sty
+Package: kvsetkeys 2022-10-05 v1.19 Key value parser (HO)
+)
+(C:\Users\Acer\AppData\Local\Programs\MiKTeX\tex/generic/kvdefinekeys\kvdefinek
+eys.sty
+Package: kvdefinekeys 2019-12-19 v1.6 Define keys (HO)
+)
+(C:\Users\Acer\AppData\Local\Programs\MiKTeX\tex/generic/pdfescape\pdfescape.st
+y
+Package: pdfescape 2019/12/09 v1.15 Implements pdfTeX's escape features (HO)
+ (C:\Users\Acer\AppData\Local\Programs\MiKTeX\tex/generic/ltxcmds\ltxcmds.sty
+Package: ltxcmds 2023-12-04 v1.26 LaTeX kernel commands for general use (HO)
+)
+(C:\Users\Acer\AppData\Local\Programs\MiKTeX\tex/generic/pdftexcmds\pdftexcmds.
+sty
+Package: pdftexcmds 2020-06-27 v0.33 Utility functions of pdfTeX for LuaTeX (HO
+)
+
+(C:\Users\Acer\AppData\Local\Programs\MiKTeX\tex/generic/infwarerr\infwarerr.st
+y
+Package: infwarerr 2019/12/03 v1.5 Providing info/warning/error messages (HO)
+)
+Package pdftexcmds Info: \pdf@primitive is available.
+Package pdftexcmds Info: \pdf@ifprimitive is available.
+Package pdftexcmds Info: \pdfdraftmode found.
+)) (C:\Users\Acer\AppData\Local\Programs\MiKTeX\tex/latex/hycolor\hycolor.sty
+Package: hycolor 2020-01-27 v1.10 Color options for hyperref/bookmark (HO)
+) (C:\Users\Acer\AppData\Local\Programs\MiKTeX\tex/latex/hyperref\nameref.sty
+Package: nameref 2025-06-21 v2.57 Cross-referencing by name of section
+
+(C:\Users\Acer\AppData\Local\Programs\MiKTeX\tex/latex/refcount\refcount.sty
+Package: refcount 2019/12/15 v3.6 Data extraction from label references (HO)
+)
+(C:\Users\Acer\AppData\Local\Programs\MiKTeX\tex/generic/gettitlestring\gettitl
+estring.sty
+Package: gettitlestring 2019/12/15 v1.6 Cleanup title references (HO)
+
+(C:\Users\Acer\AppData\Local\Programs\MiKTeX\tex/latex/kvoptions\kvoptions.sty
+Package: kvoptions 2022-06-15 v3.15 Key value format for package options (HO)
+))
+\c@section@level=\count340
+) (C:\Users\Acer\AppData\Local\Programs\MiKTeX\tex/latex/etoolbox\etoolbox.sty
+Package: etoolbox 2025/10/02 v2.5m e-TeX tools for LaTeX (JAW)
+\etb@tempcnta=\count341
+)
+(C:\Users\Acer\AppData\Local\Programs\MiKTeX\tex/generic/stringenc\stringenc.st
+y
+Package: stringenc 2019/11/29 v1.12 Convert strings between diff. encodings (HO
+)
+)
+\@linkdim=\dimen303
+\Hy@linkcounter=\count342
+\Hy@pagecounter=\count343
+ (C:\Users\Acer\AppData\Local\Programs\MiKTeX\tex/latex/hyperref\pd1enc.def
+File: pd1enc.def 2025-07-12 v7.01o Hyperref: PDFDocEncoding definition (HO)
+Now handling font encoding PD1 ...
+... no UTF-8 mapping file for font encoding PD1
+)
+(C:\Users\Acer\AppData\Local\Programs\MiKTeX\tex/generic/intcalc\intcalc.sty
+Package: intcalc 2019/12/15 v1.3 Expandable calculations with integers (HO)
+)
+\Hy@SavedSpaceFactor=\count344
+
+(C:\Users\Acer\AppData\Local\Programs\MiKTeX\tex/latex/hyperref\puenc.def
+File: puenc.def 2025-07-12 v7.01o Hyperref: PDF Unicode definition (HO)
+Now handling font encoding PU ...
+... no UTF-8 mapping file for font encoding PU
+)
+Package hyperref Info: Hyper figures OFF on input line 4195.
+Package hyperref Info: Link nesting OFF on input line 4200.
+Package hyperref Info: Hyper index ON on input line 4203.
+Package hyperref Info: Plain pages OFF on input line 4210.
+Package hyperref Info: Backreferencing OFF on input line 4215.
+Package hyperref Info: Implicit mode ON; LaTeX internals redefined.
+Package hyperref Info: Bookmarks ON on input line 4462.
+\c@Hy@tempcnt=\count345
+
+(C:\Users\Acer\AppData\Local\Programs\MiKTeX\tex/latex/url\url.sty
+\Urlmuskip=\muskip18
+Package: url 2013/09/16  ver 3.4  Verb mode for urls, etc.
+)
+LaTeX Info: Redefining \url on input line 4801.
+\XeTeXLinkMargin=\dimen304
+
+(C:\Users\Acer\AppData\Local\Programs\MiKTeX\tex/generic/bitset\bitset.sty
+Package: bitset 2019/12/09 v1.3 Handle bit-vector datatype (HO)
+
+(C:\Users\Acer\AppData\Local\Programs\MiKTeX\tex/generic/bigintcalc\bigintcalc.
+sty
+Package: bigintcalc 2019/12/15 v1.5 Expandable calculations on big integers (HO
+)
+))
+\Fld@menulength=\count346
+\Field@Width=\dimen305
+\Fld@charsize=\dimen306
+Package hyperref Info: Hyper figures OFF on input line 6078.
+Package hyperref Info: Link nesting OFF on input line 6083.
+Package hyperref Info: Hyper index ON on input line 6086.
+Package hyperref Info: backreferencing OFF on input line 6093.
+Package hyperref Info: Link coloring OFF on input line 6098.
+Package hyperref Info: Link coloring with OCG OFF on input line 6103.
+Package hyperref Info: PDF/A mode OFF on input line 6108.
+\Hy@abspage=\count347
+\c@Item=\count348
+\c@Hfootnote=\count349
+)
+Package hyperref Info: Driver (autodetected): hpdftex.
+
+(C:\Users\Acer\AppData\Local\Programs\MiKTeX\tex/latex/hyperref\hpdftex.def
+File: hpdftex.def 2025-07-12 v7.01o Hyperref driver for pdfTeX
+\Fld@listcount=\count350
+\c@bookmark@seq@number=\count351
+
+(C:\Users\Acer\AppData\Local\Programs\MiKTeX\tex/latex/rerunfilecheck\rerunfile
+check.sty
+Package: rerunfilecheck 2025-06-21 v1.11 Rerun checks for auxiliary files (HO)
+
+(C:\Users\Acer\AppData\Local\Programs\MiKTeX\tex/generic/uniquecounter\uniqueco
+unter.sty
+Package: uniquecounter 2019/12/15 v1.4 Provide unlimited unique counter (HO)
+)
+Package uniquecounter Info: New unique counter `rerunfilecheck' on input line 2
+84.
+)
+\Hy@SectionHShift=\skip59
+)
+(C:\Users\Acer\AppData\Local\Programs\MiKTeX\tex/latex/biblatex\biblatex.sty
+Package: biblatex 2025/07/10 v3.21 programmable bibliographies (PK/MW)
+
+(C:\Users\Acer\AppData\Local\Programs\MiKTeX\tex/latex/logreq\logreq.sty
+Package: logreq 2010/08/04 v1.0 xml request logger
+\lrq@indent=\count352
+
+(C:\Users\Acer\AppData\Local\Programs\MiKTeX\tex/latex/logreq\logreq.def
+File: logreq.def 2010/08/04 v1.0 logreq spec v1.0
+))
+(C:\Users\Acer\AppData\Local\Programs\MiKTeX\tex/latex/base\ifthen.sty
+Package: ifthen 2024/03/16 v1.1e Standard LaTeX ifthen package (DPC)
+)
+\c@tabx@nest=\count353
+\c@listtotal=\count354
+\c@listcount=\count355
+\c@liststart=\count356
+\c@liststop=\count357
+\c@citecount=\count358
+\c@citetotal=\count359
+\c@multicitecount=\count360
+\c@multicitetotal=\count361
+\c@instcount=\count362
+\c@maxnames=\count363
+\c@minnames=\count364
+\c@maxitems=\count365
+\c@minitems=\count366
+\c@citecounter=\count367
+\c@maxcitecounter=\count368
+\c@savedcitecounter=\count369
+\c@uniquelist=\count370
+\c@uniquename=\count371
+\c@refsection=\count372
+\c@refsegment=\count373
+\c@maxextratitle=\count374
+\c@maxextratitleyear=\count375
+\c@maxextraname=\count376
+\c@maxextradate=\count377
+\c@maxextraalpha=\count378
+\c@abbrvpenalty=\count379
+\c@highnamepenalty=\count380
+\c@lownamepenalty=\count381
+\c@maxparens=\count382
+\c@parenlevel=\count383
+\blx@tempcnta=\count384
+\blx@tempcntb=\count385
+\blx@tempcntc=\count386
+\c@blx@maxsection=\count387
+\blx@maxsegment@0=\count388
+\blx@notetype=\count389
+\blx@parenlevel@text=\count390
+\blx@parenlevel@foot=\count391
+\blx@sectionciteorder@0=\count392
+\blx@sectionciteorderinternal@0=\count393
+\blx@entrysetcounter=\count394
+\blx@biblioinstance=\count395
+\labelnumberwidth=\skip60
+\labelalphawidth=\skip61
+\biblabelsep=\skip62
+\bibitemsep=\skip63
+\bibnamesep=\skip64
+\bibinitsep=\skip65
+\bibparsep=\skip66
+\bibhang=\skip67
+\blx@bcfin=\read3
+\blx@bcfout=\write4
+\blx@langwohyphens=\language79
+\c@mincomprange=\count396
+\c@maxcomprange=\count397
+\c@mincompwidth=\count398
+Package biblatex Info: Trying to load biblatex default data model...
+Package biblatex Info: ... file 'blx-dm.def' found.
+
+(C:\Users\Acer\AppData\Local\Programs\MiKTeX\tex/latex/biblatex\blx-dm.def
+File: blx-dm.def 2025/07/10 v3.21 biblatex datamodel (PK/MW)
+)
+Package biblatex Info: Trying to load biblatex style data model...
+Package biblatex Info: ... file 'alphabetic.dbx' not found.
+Package biblatex Info: Trying to load biblatex custom data model...
+Package biblatex Info: ... file 'biblatex-dm.cfg' not found.
+\c@afterword=\count399
+\c@savedafterword=\count400
+\c@annotator=\count401
+\c@savedannotator=\count402
+\c@author=\count403
+\c@savedauthor=\count404
+\c@bookauthor=\count405
+\c@savedbookauthor=\count406
+\c@commentator=\count407
+\c@savedcommentator=\count408
+\c@editor=\count409
+\c@savededitor=\count410
+\c@editora=\count411
+\c@savededitora=\count412
+\c@editorb=\count413
+\c@savededitorb=\count414
+\c@editorc=\count415
+\c@savededitorc=\count416
+\c@foreword=\count417
+\c@savedforeword=\count418
+\c@holder=\count419
+\c@savedholder=\count420
+\c@introduction=\count421
+\c@savedintroduction=\count422
+\c@namea=\count423
+\c@savednamea=\count424
+\c@nameb=\count425
+\c@savednameb=\count426
+\c@namec=\count427
+\c@savednamec=\count428
+\c@translator=\count429
+\c@savedtranslator=\count430
+\c@shortauthor=\count431
+\c@savedshortauthor=\count432
+\c@shorteditor=\count433
+\c@savedshorteditor=\count434
+\c@labelname=\count435
+\c@savedlabelname=\count436
+\c@institution=\count437
+\c@savedinstitution=\count438
+\c@lista=\count439
+\c@savedlista=\count440
+\c@listb=\count441
+\c@savedlistb=\count442
+\c@listc=\count443
+\c@savedlistc=\count444
+\c@listd=\count445
+\c@savedlistd=\count446
+\c@liste=\count447
+\c@savedliste=\count448
+\c@listf=\count449
+\c@savedlistf=\count450
+\c@location=\count451
+\c@savedlocation=\count452
+\c@organization=\count453
+\c@savedorganization=\count454
+\c@origlocation=\count455
+\c@savedoriglocation=\count456
+\c@origpublisher=\count457
+\c@savedorigpublisher=\count458
+\c@publisher=\count459
+\c@savedpublisher=\count460
+\c@language=\count461
+\c@savedlanguage=\count462
+\c@origlanguage=\count463
+\c@savedoriglanguage=\count464
+\c@pageref=\count465
+\c@savedpageref=\count466
+\shorthandwidth=\skip68
+\shortjournalwidth=\skip69
+\shortserieswidth=\skip70
+\shorttitlewidth=\skip71
+\shortauthorwidth=\skip72
+\shorteditorwidth=\skip73
+\locallabelnumberwidth=\skip74
+\locallabelalphawidth=\skip75
+\localshorthandwidth=\skip76
+\localshortjournalwidth=\skip77
+\localshortserieswidth=\skip78
+\localshorttitlewidth=\skip79
+\localshortauthorwidth=\skip80
+\localshorteditorwidth=\skip81
+Package biblatex Info: Trying to load compatibility code...
+Package biblatex Info: ... file 'blx-compat.def' found.
+
+(C:\Users\Acer\AppData\Local\Programs\MiKTeX\tex/latex/biblatex\blx-compat.def
+File: blx-compat.def 2025/07/10 v3.21 biblatex compatibility (PK/MW)
+)
+Package biblatex Info: Trying to load generic definitions...
+Package biblatex Info: ... file 'biblatex.def' found.
+(C:\Users\Acer\AppData\Local\Programs\MiKTeX\tex/latex/biblatex\biblatex.def
+File: biblatex.def 2025/07/10 v3.21 biblatex compatibility (PK/MW)
+\c@textcitecount=\count467
+\c@textcitetotal=\count468
+\c@textcitemaxnames=\count469
+\c@biburlbigbreakpenalty=\count470
+\c@biburlbreakpenalty=\count471
+\c@biburlnumpenalty=\count472
+\c@biburlucpenalty=\count473
+\c@biburllcpenalty=\count474
+\biburlbigskip=\muskip19
+\biburlnumskip=\muskip20
+\biburlucskip=\muskip21
+\biburllcskip=\muskip22
+\c@smartand=\count475
+)
+Package biblatex Info: Trying to load bibliography style 'alphabetic'...
+Package biblatex Info: ... file 'alphabetic.bbx' found.
+
+(C:\Users\Acer\AppData\Local\Programs\MiKTeX\tex/latex/biblatex/bbx\alphabetic.
+bbx
+File: alphabetic.bbx 2025/07/10 v3.21 biblatex bibliography style (PK/MW)
+Package biblatex Info: Trying to load bibliography style 'standard'...
+Package biblatex Info: ... file 'standard.bbx' found.
+
+(C:\Users\Acer\AppData\Local\Programs\MiKTeX\tex/latex/biblatex/bbx\standard.bb
+x
+File: standard.bbx 2025/07/10 v3.21 biblatex bibliography style (PK/MW)
+\c@bbx:relatedcount=\count476
+\c@bbx:relatedtotal=\count477
+))
+Package biblatex Info: Trying to load citation style 'alphabetic'...
+Package biblatex Info: ... file 'alphabetic.cbx' found.
+
+(C:\Users\Acer\AppData\Local\Programs\MiKTeX\tex/latex/biblatex/cbx\alphabetic.
+cbx
+File: alphabetic.cbx 2025/07/10 v3.21 biblatex citation style (PK/MW)
+Package biblatex Info: Redefining '\cite'.
+Package biblatex Info: Redefining '\parencite'.
+Package biblatex Info: Redefining '\footcite'.
+Package biblatex Info: Redefining '\footcitetext'.
+Package biblatex Info: Redefining '\smartcite'.
+Package biblatex Info: Redefining '\textcite'.
+Package biblatex Info: Redefining '\textcites'.
+Package biblatex Info: Redefining '\cites'.
+Package biblatex Info: Redefining '\parencites'.
+Package biblatex Info: Redefining '\smartcites'.
+)
+Package biblatex Info: Trying to load configuration file...
+Package biblatex Info: ... file 'biblatex.cfg' found.
+
+(C:\Users\Acer\AppData\Local\Programs\MiKTeX\tex/latex/biblatex\biblatex.cfg
+File: biblatex.cfg 
+)
+Package biblatex Info: Input encoding 'utf8' detected.
+Package biblatex Info: Document encoding is UTF8 ....
+Package biblatex Info: ... and expl3
+(biblatex)             2025-10-24 L3 programming layer (loader) 
+(biblatex)             is new enough (at least 2020/04/06),
+(biblatex)             setting 'casechanger=expl3'.
+
+(C:\Users\Acer\AppData\Local\Programs\MiKTeX\tex/latex/biblatex\blx-case-expl3.
+sty
+(C:\Users\Acer\AppData\Local\Programs\MiKTeX\tex/latex/l3packages/xparse\xparse
+.sty
+Package: xparse 2025-10-09 L3 Experimental document command parser
+)
+Package: blx-case-expl3 2025/07/10 v3.21 expl3 case changing code for biblatex
+))
+\@quotelevel=\count478
+\@quotereset=\count479
+
+(C:\Users\Acer\OneDrive - Università di Napoli Federico II\Università\esami m
+agistrale\Field and service\FSR_Notes\FSR_Notes\build\FSR_Notes.aux
+(C:\Users\Acer\OneDrive - Università di Napoli Federico II\Università\esami m
+agistrale\Field and service\FSR_Notes\FSR_Notes\build\Introduction.aux)
+(C:\Users\Acer\OneDrive - Università di Napoli Federico II\Università\esami m
+agistrale\Field and service\FSR_Notes\FSR_Notes\build\Wheeled Robots.aux)
+(C:\Users\Acer\OneDrive - Università di Napoli Federico II\Università\esami m
+agistrale\Field and service\FSR_Notes\FSR_Notes\build\Aerial Robotics.aux)
+(C:\Users\Acer\OneDrive - Università di Napoli Federico II\Università\esami m
+agistrale\Field and service\FSR_Notes\FSR_Notes\build\Underwater Robotics.aux)
+(C:\Users\Acer\OneDrive - Università di Napoli Federico II\Università\esami m
+agistrale\Field and service\FSR_Notes\FSR_Notes\build\Legged Robotics.aux)
+(C:\Users\Acer\OneDrive - Università di Napoli Federico II\Università\esami m
+agistrale\Field and service\FSR_Notes\FSR_Notes\build\Appendix.aux))
+\openout1 = `FSR_Notes.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 26.
+LaTeX Font Info:    ... okay on input line 26.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 26.
+LaTeX Font Info:    ... okay on input line 26.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 26.
+LaTeX Font Info:    ... okay on input line 26.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 26.
+LaTeX Font Info:    ... okay on input line 26.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 26.
+LaTeX Font Info:    ... okay on input line 26.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 26.
+LaTeX Font Info:    ... okay on input line 26.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 26.
+LaTeX Font Info:    ... okay on input line 26.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 26.
+LaTeX Font Info:    ... okay on input line 26.
+LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 26.
+LaTeX Font Info:    ... okay on input line 26.
+
+(C:\Users\Acer\AppData\Local\Programs\MiKTeX\tex/context/base/mkii\supp-pdf.mki
+i
+[Loading MPS to PDF converter (version 2006.09.02).]
+\scratchcounter=\count480
+\scratchdimen=\dimen307
+\scratchbox=\box115
+\nofMPsegments=\count481
+\nofMParguments=\count482
+\everyMPshowfont=\toks44
+\MPscratchCnt=\count483
+\MPscratchDim=\dimen308
+\MPnumerator=\count484
+\makeMPintoPDFobject=\count485
+\everyMPtoPDFconversion=\toks45
+)
+(C:\Users\Acer\AppData\Local\Programs\MiKTeX\tex/latex/epstopdf-pkg\epstopdf-ba
+se.sty
+Package: epstopdf-base 2020-01-24 v2.11 Base part for package epstopdf
+Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 4
+85.
+
+(C:\Users\Acer\AppData\Local\Programs\MiKTeX\tex/latex/00miktex\epstopdf-sys.cf
+g
+File: epstopdf-sys.cfg 2021/03/18 v2.0 Configuration of epstopdf for MiKTeX
+))
+Package caption Info: Begin \AtBeginDocument code.
+Package caption Info: hyperref package is loaded.
+Package caption Info: wrapfig package is loaded.
+Package caption Info: End \AtBeginDocument code.
+Package hyperref Info: Link coloring OFF on input line 26.
+
+(C:\Users\Acer\OneDrive - Università di Napoli Federico II\Università\esami m
+agistrale\Field and service\FSR_Notes\FSR_Notes\build\FSR_Notes.out)
+(C:\Users\Acer\OneDrive - Università di Napoli Federico II\Università\esami m
+agistrale\Field and service\FSR_Notes\FSR_Notes\build\FSR_Notes.out)
+\@outlinefile=\write5
+\openout5 = `FSR_Notes.out'.
+
+Package biblatex Info: Trying to load language 'english'...
+Package biblatex Info: ... file 'english.lbx' found.
+
+(C:\Users\Acer\AppData\Local\Programs\MiKTeX\tex/latex/biblatex/lbx\english.lbx
+File: english.lbx 2025/07/10 v3.21 biblatex localization (PK/MW)
+)
+Package biblatex Info: Input encoding 'utf8' detected.
+Package biblatex Info: Automatic encoding selection.
+(biblatex)             Assuming data encoding 'utf8'.
+\openout4 = `FSR_Notes.bcf'.
+
+Package biblatex Info: Trying to load bibliographic data...
+Package biblatex Info: ... file 'FSR_Notes.bbl' not found.
+
+No file FSR_Notes.bbl.
+Package biblatex Info: Reference section=0 on input line 26.
+Package biblatex Info: Reference segment=0 on input line 26.
+\c@theorem=\count486
+\c@lemma=\count487
+\c@definition=\count488
+LaTeX Font Info:    Trying to load font information for U+msa on input line 40.
+
+(C:\Users\Acer\AppData\Local\Programs\MiKTeX\tex/latex/amsfonts\umsa.fd
+File: umsa.fd 2013/01/14 v3.01 AMS symbols A
+)
+LaTeX Font Info:    Trying to load font information for U+msb on input line 40.
+
+
+(C:\Users\Acer\AppData\Local\Programs\MiKTeX\tex/latex/amsfonts\umsb.fd
+File: umsb.fd 2013/01/14 v3.01 AMS symbols B
+)
+[1
+
+
+{C:/Users/Acer/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map}] [2
+
+]
+(C:\Users\Acer\OneDrive - Università di Napoli Federico II\Università\esami m
+agistrale\Field and service\FSR_Notes\FSR_Notes\build\FSR_Notes.toc [3]
+[4])
+\tf@toc=\write6
+\openout6 = `FSR_Notes.toc'.
+
+ [5]
+\openout2 = `Introduction.aux'.
+
+ (Introduction.tex [6
+
+
+]
+Chapter 1.
+[7] [8]
+<Images/typical_robot_joints.png, id=484, 853.1875pt x 422.57875pt>
+File: Images/typical_robot_joints.png Graphic file (type png)
+<use Images/typical_robot_joints.png>
+Package pdftex.def Info: Images/typical_robot_joints.png  used on input line 47
+.
+(pdftex.def)             Requested size: 165.59853pt x 82.01886pt.
+<Images/image2.png, id=486, 355.3275pt x 171.64125pt>
+File: Images/image2.png Graphic file (type png)
+<use Images/image2.png>
+Package pdftex.def Info: Images/image2.png  used on input line 51.
+(pdftex.def)             Requested size: 165.59853pt x 79.99567pt.
+<Images/image1.png, id=487, 298.86656pt x 165.61874pt>
+File: Images/image1.png Graphic file (type png)
+<use Images/image1.png>
+Package pdftex.def Info: Images/image1.png  used on input line 62.
+(pdftex.def)             Requested size: 137.9979pt x 76.47363pt.
+ [9 <./Images/typical_robot_joints.png> <./Images/image2.png> <./Images/image1.
+png>]
+<Images/image3.png, id=503, 392.96812pt x 103.88812pt>
+File: Images/image3.png Graphic file (type png)
+<use Images/image3.png>
+Package pdftex.def Info: Images/image3.png  used on input line 83.
+(pdftex.def)             Requested size: 172.5pt x 45.60469pt.
+ [10 <./Images/image3.png>]
+<Images/image4.png, id=510, 182.18062pt x 231.86626pt>
+File: Images/image4.png Graphic file (type png)
+<use Images/image4.png>
+Package pdftex.def Info: Images/image4.png  used on input line 96.
+(pdftex.def)             Requested size: 137.9979pt x 175.63994pt.
+ [11 <./Images/image4.png>]
+<Images/image5.png, id=529, 396.7322pt x 57.96657pt>
+File: Images/image5.png Graphic file (type png)
+<use Images/image5.png>
+Package pdftex.def Info: Images/image5.png  used on input line 127.
+(pdftex.def)             Requested size: 172.5pt x 25.20462pt.
+ [12 <./Images/image5.png>]
+<Images/ProDrone.jpg, id=537, 475.7775pt x 316.18124pt>
+File: Images/ProDrone.jpg Graphic file (type jpg)
+<use Images/ProDrone.jpg>
+Package pdftex.def Info: Images/ProDrone.jpg  used on input line 166.
+(pdftex.def)             Requested size: 137.9979pt x 91.7095pt.
+
+Overfull \hbox (2.22221pt too wide) in paragraph at lines 164--188
+[]$[]$  $[]$ 
+ []
+
+<Images/Mobile_Kuka.jpg, id=538, 1160.335pt x 792.9625pt>
+File: Images/Mobile_Kuka.jpg Graphic file (type jpg)
+<use Images/Mobile_Kuka.jpg>
+Package pdftex.def Info: Images/Mobile_Kuka.jpg  used on input line 194.
+(pdftex.def)             Requested size: 137.9979pt x 94.30441pt.
+
+Overfull \hbox (2.22221pt too wide) in paragraph at lines 192--211
+[]$[]$  $[]$ 
+ []
+
+[13] [14 <./Images/ProDrone.jpg> <./Images/Mobile_Kuka.jpg>]
+<Images/image7.png, id=552, 387.69844pt x 284.56313pt>
+File: Images/image7.png Graphic file (type png)
+<use Images/image7.png>
+Package pdftex.def Info: Images/image7.png  used on input line 226.
+(pdftex.def)             Requested size: 172.5pt x 126.61064pt.
+
+Underfull \vbox (badness 2119) has occurred while \output is active []
+
+ [15 <./Images/image7.png>]
+
+LaTeX Warning: Citation 'Taylor_ClassicalMechanics' on page 16 undefined on inp
+ut line 239.
+
+[16] [17]
+Overfull \hbox (0.33562pt too wide) in paragraph at lines 287--288
+[][]\OT1/cmr/bx/n/10 Theorem 1. []\OT1/cmr/m/it/10 A sys-tem that is small-time
+ lo-cally con-trol-lable on a path-connected
+ []
+
+<Images/image9.png, id=579, 224.33812pt x 170.13562pt>
+File: Images/image9.png Graphic file (type png)
+<use Images/image9.png>
+Package pdftex.def Info: Images/image9.png  used on input line 300.
+(pdftex.def)             Requested size: 103.50105pt x 78.49437pt.
+<Images/image10.png, id=580, 170.13562pt x 155.83218pt>
+File: Images/image10.png Graphic file (type png)
+<use Images/image10.png>
+Package pdftex.def Info: Images/image10.png  used on input line 308.
+(pdftex.def)             Requested size: 51.75052pt x 47.39915pt.
+
+Underfull \hbox (badness 5622) in paragraph at lines 310--310
+[]\OT1/cmr/m/n/10 Figure 1.10: |Small-
+ []
+
+
+Underfull \hbox (badness 3954) in paragraph at lines 310--310
+\OT1/cmr/m/n/10 can-not progress from
+ []
+
+<Images/image11.png, id=581, 208.52907pt x 167.12437pt>
+File: Images/image11.png Graphic file (type png)
+<use Images/image11.png>
+Package pdftex.def Info: Images/image11.png  used on input line 316.
+(pdftex.def)             Requested size: 51.75052pt x 41.47496pt.
+
+Underfull \hbox (badness 1014) in paragraph at lines 318--318
+[]\OT1/cmr/m/n/10 Figure 1.11: |Om-ni-di-
+ []
+
+
+Underfull \hbox (badness 7576) in paragraph at lines 318--318
+\OT1/cmr/m/n/10 rec-tional Con-trol-la-bil-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 318--318
+\OT1/cmr/m/n/10 The tra-jec-to-ries can
+ []
+
+[18]) [19 <./Images/image9.png> <./Images/image10.png> <./Images/image11.png>]
+\openout2 = `"Wheeled Robots.aux"'.
+
+
+(Wheeled Robots.tex [20
+
+
+
+
+]
+Chapter 2.
+[21] [22]
+Overfull \hbox (5.73593pt too wide) has occurred while \output is active
+\OT1/cmr/m/sl/10 2.3.  EQUATIONS OF MOTION WITH NONHOLONOMIC CONSTRAINTS \OT1/c
+mr/m/n/10 23
+ []
+
+[23]
+Overfull \hbox (10.03198pt too wide) detected at line 122
+[]
+ []
+
+
+Overfull \hbox (2.07451pt too wide) in paragraph at lines 157--157
+[]\OT1/cmr/bx/n/10 Disk rolling on a plane, Uni-cy-cle and Dif-fer-en-tial Driv
+e Robot 
+ []
+
+[24]
+<Images/image13.png, id=641, 324.46219pt x 531.48563pt>
+File: Images/image13.png Graphic file (type png)
+<use Images/image13.png>
+Package pdftex.def Info: Images/image13.png  used on input line 225.
+(pdftex.def)             Requested size: 86.25pt x 141.28094pt.
+
+Overfull \hbox (2.22221pt too wide) in paragraph at lines 224--238
+[]$[]$  $[]$ 
+ []
+
+<Images/image15.png, id=642, 386.94562pt x 295.1025pt>
+File: Images/image15.png Graphic file (type png)
+<use Images/image15.png>
+Package pdftex.def Info: Images/image15.png  used on input line 242.
+(pdftex.def)             Requested size: 124.20251pt x 94.7229pt.
+
+Overfull \hbox (2.22221pt too wide) in paragraph at lines 241--252
+[]$[]$  $[]$ 
+ []
+
+
+Overfull \hbox (5.73593pt too wide) has occurred while \output is active
+\OT1/cmr/m/sl/10 2.3.  EQUATIONS OF MOTION WITH NONHOLONOMIC CONSTRAINTS \OT1/c
+mr/m/n/10 25
+ []
+
+[25] [26 <./Images/image13.png> <./Images/image15.png>]
+Overfull \hbox (5.73593pt too wide) has occurred while \output is active
+\OT1/cmr/m/sl/10 2.3.  EQUATIONS OF MOTION WITH NONHOLONOMIC CONSTRAINTS \OT1/c
+mr/m/n/10 27
+ []
+
+[27] [28] [29] [30]
+Overfull \hbox (9.54852pt too wide) in paragraph at lines 527--528
+[][]\OT1/cmr/bx/n/10 Definition 2.4.2. []\OT1/cmr/m/n/10 (\OT1/cmr/m/it/10 Pon-
+trya-gin's Min-i-mum Prin-ci-ple\OT1/cmr/m/n/10 ): Con-sider an $\OML/cmm/m/it/
+10 n$\OT1/cmr/m/n/10 -dimensional
+ []
+
+<Images/image17.png, id=680, 112.16907pt x 106.89937pt>
+File: Images/image17.png Graphic file (type png)
+<use Images/image17.png>
+Package pdftex.def Info: Images/image17.png  used on input line 563.
+(pdftex.def)             Requested size: 68.99895pt x 65.75983pt.
+<Images/image18.png, id=681, 123.46124pt x 134.00063pt>
+File: Images/image18.png Graphic file (type png)
+<use Images/image18.png>
+Package pdftex.def Info: Images/image18.png  used on input line 569.
+(pdftex.def)             Requested size: 68.99895pt x 74.89261pt.
+[31]
+<Images/image19.png, id=692, 321.45094pt x 158.09062pt>
+File: Images/image19.png Graphic file (type png)
+<use Images/image19.png>
+Package pdftex.def Info: Images/image19.png  used on input line 582.
+(pdftex.def)             Requested size: 169.04852pt x 83.14113pt.
+
+Underfull \hbox (badness 8038) in paragraph at lines 587--588
+[]\OT1/cmr/m/n/10 Each group con-tains
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 587--588
+\OT1/cmr/m/n/10 tra-jec-to-ries con-sist-ing
+ []
+
+
+Underfull \hbox (badness 2856) in paragraph at lines 587--588
+\OT1/cmr/m/n/10 of a se-quence of no
+ []
+
+<Images/image21.png, id=693, 499.8675pt x 201.00093pt>
+File: Images/image21.png Graphic file (type png)
+<use Images/image21.png>
+Package pdftex.def Info: Images/image21.png  used on input line 598.
+(pdftex.def)             Requested size: 276.00105pt x 110.98636pt.
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+[32 <./Images/image17.png> <./Images/image18.png> <./Images/image19.png>]
+<Images/image24.png, id=703, 206.27063pt x 119.69719pt>
+File: Images/image24.png Graphic file (type png)
+<use Images/image24.png>
+Package pdftex.def Info: Images/image24.png  used on input line 613.
+(pdftex.def)             Requested size: 124.20251pt x 72.07455pt.
+
+Underfull \hbox (badness 1331) in paragraph at lines 618--619
+[]\OT1/cmr/m/n/10 A uni-cy-cle is a flat sys-tem.
+ []
+
+[33 <./Images/image21.png> <./Images/image24.png>]
+Overfull \hbox (38.31541pt too wide) detected at line 661
+[][][][]\OT1/cmr/m/n/10 (\OML/cmm/m/it/10 t\OT1/cmr/m/n/10 ) = [] [] [] + [] []
+
+ []
+
+[34] [35] [36]
+<Images/image25.png, id=736, 545.03625pt x 468.24937pt>
+File: Images/image25.png Graphic file (type png)
+<use Images/image25.png>
+Package pdftex.def Info: Images/image25.png  used on input line 816.
+(pdftex.def)             Requested size: 124.20251pt x 106.70193pt.
+ [37 <./Images/image25.png>] [38]
+<Images/image26.png, id=749, 283.81032pt x 280.79906pt>
+File: Images/image26.png Graphic file (type png)
+<use Images/image26.png>
+Package pdftex.def Info: Images/image26.png  used on input line 924.
+(pdftex.def)             Requested size: 103.50105pt x 102.40297pt.
+ [39 <./Images/image26.png>]
+[40] [41]) [42]
+\openout2 = `"Aerial Robotics.aux"'.
+
+ (Aerial Robotics.tex
+Chapter 3.
+
+Underfull \hbox (badness 1708) in paragraph at lines 24--25
+[]\OT1/cmr/m/n/10 In the \OT1/cmr/m/it/10 Earth Cen-tered In-er-
+ []
+
+<Images/image27.png, id=771, 293.59688pt x 236.38312pt>
+File: Images/image27.png Graphic file (type png)
+<use Images/image27.png>
+Package pdftex.def Info: Images/image27.png  used on input line 28.
+(pdftex.def)             Requested size: 124.20251pt x 99.998pt.
+
+Overfull \hbox (2.22221pt too wide) in paragraph at lines 23--31
+[]$[]$  $[]$ 
+ []
+
+
+Underfull \hbox (badness 6893) in paragraph at lines 33--34
+[]\OT1/cmr/m/n/10 The \OT1/cmr/m/it/10 Earth Cen-tered Earth-
+ []
+
+<Images/image28.png, id=772, 225.84375pt x 136.25906pt>
+File: Images/image28.png Graphic file (type png)
+<use Images/image28.png>
+Package pdftex.def Info: Images/image28.png  used on input line 37.
+(pdftex.def)             Requested size: 124.20251pt x 74.93646pt.
+<Images/image29.png, id=773, 202.50656pt x 155.83218pt>
+File: Images/image29.png Graphic file (type png)
+<use Images/image29.png>
+Package pdftex.def Info: Images/image29.png  used on input line 46.
+(pdftex.def)             Requested size: 124.20251pt x 95.57823pt.
+<Images/image30.png, id=774, 320.69812pt x 297.36093pt>
+File: Images/image30.png Graphic file (type png)
+<use Images/image30.png>
+Package pdftex.def Info: Images/image30.png  used on input line 55.
+(pdftex.def)             Requested size: 55.1983pt x 51.18138pt.
+<Images/image31.png, id=775, 370.38374pt x 292.84406pt>
+File: Images/image31.png Graphic file (type png)
+<use Images/image31.png>
+Package pdftex.def Info: Images/image31.png  used on input line 61.
+(pdftex.def)             Requested size: 55.1983pt x 43.63873pt.
+[43
+
+
+
+
+]
+<Images/image33.png, id=781, 493.0922pt x 255.95625pt>
+File: Images/image33.png Graphic file (type png)
+<use Images/image33.png>
+Package pdftex.def Info: Images/image33.png  used on input line 71.
+(pdftex.def)             Requested size: 124.20251pt x 64.46928pt.
+
+Underfull \hbox (badness 1888) in paragraph at lines 75--76
+[]\OT1/cmr/m/n/10 For each pro-peller, de-fine a
+ []
+
+
+Underfull \hbox (badness 1107) in paragraph at lines 75--76
+\OT1/cmr/m/n/10 change its ori-en-ta-tion, which
+ []
+
+[44 <./Images/image27.png> <./Images/image28.png> <./Images/image29.png> <./Ima
+ges/image30.png> <./Images/image31.png>] [45 <./Images/image33.png>] [46]
+<Images/image32.png, id=805, 511.9125pt x 294.34969pt>
+File: Images/image32.png Graphic file (type png)
+<use Images/image32.png>
+Package pdftex.def Info: Images/image32.png  used on input line 139.
+(pdftex.def)             Requested size: 124.20251pt x 71.41339pt.
+
+Overfull \hbox (36.72432pt too wide) in paragraph at lines 134--142
+[]$[]$  $[]$ 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 168--169
+
+ []
+
+[47 <./Images/image32.png>] [48]
+<Images/image34.png, id=822, 570.63188pt x 316.93407pt>
+File: Images/image34.png Graphic file (type png)
+<use Images/image34.png>
+Package pdftex.def Info: Images/image34.png  used on input line 254.
+(pdftex.def)             Requested size: 169.04852pt x 93.89128pt.
+
+Underfull \hbox (badness 1297) in paragraph at lines 258--259
+\OT1/cmr/m/n/10 ing its free-body di-a-
+ []
+
+[49 <./Images/image34.png>]
+Overfull \hbox (20.59496pt too wide) detected at line 349
+[]
+ []
+
+[50] [51] [52] [53] [54]
+Overfull \hbox (15.76593pt too wide) in paragraph at lines 624--625
+\OT1/cmr/m/n/10 last choice is crit-i-cal, in the sense that it could hap-pen t
+hat the triplet $(\OML/cmm/m/it/10 x[]; y[]; z[]\OT1/cmr/m/n/10 )$
+ []
+
+[55]
+Overfull \hbox (7.17917pt too wide) detected at line 648
+[]
+ []
+
+[56]
+Overfull \hbox (3.22366pt too wide) in paragraph at lines 770--770
+[]\OT1/cmr/bx/n/12 Passivity-Based Con-troller with Com-pen-sa-tion of ex-
+ []
+
+[57] [58]
+<Images/image35.png, id=905, 1899.095pt x 1419.3025pt>
+File: Images/image35.png Graphic file (type png)
+<use Images/image35.png>
+Package pdftex.def Info: Images/image35.png  used on input line 836.
+(pdftex.def)             Requested size: 207.0021pt x 154.69441pt.
+ [59]
+<Images/image36.png, id=910, 170.88844pt x 153.57375pt>
+File: Images/image36.png Graphic file (type png)
+<use Images/image36.png>
+Package pdftex.def Info: Images/image36.png  used on input line 853.
+(pdftex.def)             Requested size: 103.50105pt x 93.01668pt.
+<Images/image37.png, id=911, 285.31593pt x 297.36093pt>
+File: Images/image37.png Graphic file (type png)
+<use Images/image37.png>
+Package pdftex.def Info: Images/image37.png  used on input line 858.
+(pdftex.def)             Requested size: 86.25pt x 89.88956pt.
+ [60 <./Images/image35.png (PNG copy)>]
+<Images/image38.png, id=918, 229.60782pt x 129.48375pt>
+File: Images/image38.png Graphic file (type png)
+<use Images/image38.png>
+Package pdftex.def Info: Images/image38.png  used on input line 873.
+(pdftex.def)             Requested size: 129.375pt x 72.96283pt.
+) [61 <./Images/image36.png> <./Images/image37.png> <./Images/image38.png>] [62
+]
+\openout2 = `"Underwater Robotics.aux"'.
+
+ (Underwater Robotics.tex
+Chapter 4.
+<Images/body_underwater.png, id=933, 293.59688pt x 178.41656pt>
+File: Images/body_underwater.png Graphic file (type png)
+<use Images/body_underwater.png>
+Package pdftex.def Info: Images/body_underwater.png  used on input line 23.
+(pdftex.def)             Requested size: 207.0021pt x 125.79457pt.
+
+Overfull \hbox (2.22221pt too wide) in paragraph at lines 21--35
+[]$[]$  $[]$ 
+ []
+
+[63
+
+
+
+
+] [64 <./Images/body_underwater.png>]) [65] [66]
+\openout2 = `"Legged Robotics.aux"'.
+
+ (Legged Robotics.tex
+Chapter 5.
+
+Package hyperref Warning: Difference (2) between bookmark levels is greater 
+(hyperref)                than one, level fixed on input line 2.
+
+<Images/statically_stable_robot.png, id=964, 255.95625pt x 181.42781pt>
+File: Images/statically_stable_robot.png Graphic file (type png)
+<use Images/statically_stable_robot.png>
+Package pdftex.def Info: Images/statically_stable_robot.png  used on input line
+ 15.
+(pdftex.def)             Requested size: 86.25pt x 61.13649pt.
+<Images/dinamic_stable_gait.png, id=965, 252.945pt x 235.63031pt>
+File: Images/dinamic_stable_gait.png Graphic file (type png)
+<use Images/dinamic_stable_gait.png>
+Package pdftex.def Info: Images/dinamic_stable_gait.png  used on input line 21.
+
+(pdftex.def)             Requested size: 86.25pt x 80.34694pt.
+<Images/prismatic_leg.png, id=966, 211.54031pt x 261.97874pt>
+File: Images/prismatic_leg.png Graphic file (type png)
+<use Images/prismatic_leg.png>
+Package pdftex.def Info: Images/prismatic_leg.png  used on input line 34.
+(pdftex.def)             Requested size: 51.75052pt x 64.0874pt.
+<Images/articulated_leg.png, id=967, 167.87718pt x 252.19218pt>
+File: Images/articulated_leg.png Graphic file (type png)
+<use Images/articulated_leg.png>
+Package pdftex.def Info: Images/articulated_leg.png  used on input line 40.
+(pdftex.def)             Requested size: 55.1983pt x 82.91966pt.
+<Images/redundant_articulated_leg.png, id=968, 162.6075pt x 248.42813pt>
+File: Images/redundant_articulated_leg.png Graphic file (type png)
+<use Images/redundant_articulated_leg.png>
+Package pdftex.def Info: Images/redundant_articulated_leg.png  used on input li
+ne 52.
+(pdftex.def)             Requested size: 51.75052pt x 79.06268pt.
+[67
+
+
+
+
+ <./Images/statically_stable_robot.png> <./Images/dinamic_stable_gait.png>]
+[68 <./Images/prismatic_leg.png> <./Images/articulated_leg.png> <./Images/redun
+dant_articulated_leg.png>]
+<Images/floating_base_scheme.png, id=985, 355.3275pt x 219.82124pt>
+File: Images/floating_base_scheme.png Graphic file (type png)
+<use Images/floating_base_scheme.png>
+Package pdftex.def Info: Images/floating_base_scheme.png  used on input line 72
+.
+(pdftex.def)             Requested size: 172.5pt x 106.71715pt.
+<Images/stance feet.png, id=986, 229.60782pt x 296.60812pt>
+File: Images/stance feet.png Graphic file (type png)
+<use Images/stance feet.png>
+Package pdftex.def Info: Images/stance feet.png  used on input line 84.
+(pdftex.def)             Requested size: 129.375pt x 167.13583pt.
+
+Overfull \hbox (10.69931pt too wide) detected at line 105
+[][][]\OML/cmm/m/it/10 J[] \OT1/cmr/m/n/10 = [] \OMS/cmsy/m/n/10 2 \U/msb/m/n/1
+0 R[]
+ []
+
+[69 <./Images/floating_base_scheme.png> <./Images/stance feet.png>]
+<Images/pyramid_friction_model.png, id=998, 465.99094pt x 134.00063pt>
+File: Images/pyramid_friction_model.png Graphic file (type png)
+<use Images/pyramid_friction_model.png>
+Package pdftex.def Info: Images/pyramid_friction_model.png  used on input line 
+142.
+(pdftex.def)             Requested size: 258.75pt x 74.408pt.
+ [70 <./Images/pyramid_friction_model.png>]
+Overfull \hbox (2.8985pt too wide) in paragraph at lines 166--167
+[][]\OT1/cmr/bx/n/10 Definition 5.0.5. []\OT1/cmr/m/it/10 (Con-strained Con-sis
+-tent Dy-nam-ics model): \OT1/cmr/m/n/10 De-fine the model: 
+ []
+
+[71] [72] [73] [74]
+Overfull \hbox (3.08485pt too wide) in paragraph at lines 322--323
+[]\OT1/cmr/m/it/10 Controllability\OT1/cmr/m/n/10 : it pro-vides a slightly re-
+stricted no-tion of vi-a-bil-ity, analysing
+ []
+
+[75]
+<Images/legged_robots_whole_body_controller.png, id=1061, 672.26157pt x 268.001
+25pt>
+File: Images/legged_robots_whole_body_controller.png Graphic file (type png)
+<use Images/legged_robots_whole_body_controller.png>
+Package pdftex.def Info: Images/legged_robots_whole_body_controller.png  used o
+n input line 343.
+(pdftex.def)             Requested size: 258.75pt x 103.15012pt.
+ [76 <./Images/legged_robots_whole_body_controller.png>]
+<Images/legged_swing_feet.png, id=1069, 188.95593pt x 196.48407pt>
+File: Images/legged_swing_feet.png Graphic file (type png)
+<use Images/legged_swing_feet.png>
+Package pdftex.def Info: Images/legged_swing_feet.png  used on input line 406.
+(pdftex.def)             Requested size: 169.04852pt x 175.78468pt.
+
+Underfull \hbox (badness 1303) in paragraph at lines 410--411
+[]\OT1/cmr/m/n/10 This can be achieved
+ []
+
+
+Underfull \hbox (badness 1215) in paragraph at lines 410--411
+\OT1/cmr/m/n/10 by im-pos-ing the con-
+ []
+
+
+Underfull \hbox (badness 2600) in paragraph at lines 413--416
+\OT1/cmr/m/n/10 Where $\OML/cmm/m/it/10 a; b; c$ \OT1/cmr/m/n/10 are the
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 413--416
+\OT1/cmr/m/n/10 passin through the
+ []
+
+
+Underfull \hbox (badness 2980) in paragraph at lines 413--416
+\OT1/cmr/m/n/10 Finally, the ref-er-ence
+ []
+
+
+Underfull \hbox (badness 1728) in paragraph at lines 413--416
+\OT1/cmr/m/n/10 for the swing feet is
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 413--416
+\OT1/cmr/m/n/10 com-puted us-ing two
+ []
+
+[77] [78 <./Images/legged_swing_feet.png>]
+Overfull \hbox (20.48122pt too wide) in paragraph at lines 478--480
+\OT1/cmr/m/n/10 Where the terms $\OMS/cmsy/m/n/10 ^^@\OML/cmm/m/it/10 K[] [] \O
+MS/cmsy/m/n/10 ^^@ \OML/cmm/m/it/10 K[] []$ \OT1/cmr/m/n/10 rep-re-sent a Carte
+-sian Impedance
+ []
+
+[79] [80]
+Overfull \hbox (48.0603pt too wide) detected at line 561
+[]
+ []
+
+) [81]
+\openout2 = `Appendix.aux'.
+
+ (Appendix.tex [82
+
+
+
+
+]
+Chapter 6.
+[83]
+Overfull \hbox (0.53087pt too wide) detected at line 44
+[]
+ []
+
+[84]
+Overfull \hbox (56.09111pt too wide) detected at line 63
+[][][]\OML/cmm/m/it/10 p\OT1/cmr/m/n/10 (\OML/cmm/m/it/10 x[] \OMS/cmsy/m/n/10 
+j \OML/cmm/m/it/10 u[]; x[]\OT1/cmr/m/n/10 ) = [](2\OML/cmm/m/it/10 ^^YR[]\OT1/
+cmr/m/n/10 )[]\OML/cmm/m/it/10 exp []
+ []
+
+<Images/image22.png, id=1141, 442.65375pt x 146.79843pt>
+File: Images/image22.png Graphic file (type png)
+<use Images/image22.png>
+Package pdftex.def Info: Images/image22.png  used on input line 77.
+(pdftex.def)             Requested size: 276.00105pt x 91.53598pt.
+[85] [86 <./Images/image22.png>]
+<Images/image23.png, id=1156, 197.23688pt x 195.73125pt>
+File: Images/image23.png Graphic file (type png)
+<use Images/image23.png>
+Package pdftex.def Info: Images/image23.png  used on input line 132.
+(pdftex.def)             Requested size: 124.20251pt x 123.25458pt.
+ [87] [88 <./Images/image23.png>]
+Overfull \hbox (17.4492pt too wide) in paragraph at lines 181--182
+[]\OT1/cmr/m/n/10 A \OT1/cmr/m/it/10 re-pul-sive \OT1/cmr/m/n/10 po-ten-tial te
+rm, which pushes the robot away from the $[]\OMS/cmsy/m/n/10 ^^@$\OT1/cmr/m/n/1
+0 obstacle
+ []
+
+[89] [90] [91] [92]) [93]
+(C:\Users\Acer\OneDrive - Università di Napoli Federico II\Università\esami m
+agistrale\Field and service\FSR_Notes\FSR_Notes\build\FSR_Notes.aux
+(C:\Users\Acer\OneDrive - Università di Napoli Federico II\Università\esami m
+agistrale\Field and service\FSR_Notes\FSR_Notes\build\Introduction.aux)
+(C:\Users\Acer\OneDrive - Università di Napoli Federico II\Università\esami m
+agistrale\Field and service\FSR_Notes\FSR_Notes\build\Wheeled Robots.aux)
+(C:\Users\Acer\OneDrive - Università di Napoli Federico II\Università\esami m
+agistrale\Field and service\FSR_Notes\FSR_Notes\build\Aerial Robotics.aux)
+(C:\Users\Acer\OneDrive - Università di Napoli Federico II\Università\esami m
+agistrale\Field and service\FSR_Notes\FSR_Notes\build\Underwater Robotics.aux)
+(C:\Users\Acer\OneDrive - Università di Napoli Federico II\Università\esami m
+agistrale\Field and service\FSR_Notes\FSR_Notes\build\Legged Robotics.aux)
+(C:\Users\Acer\OneDrive - Università di Napoli Federico II\Università\esami m
+agistrale\Field and service\FSR_Notes\FSR_Notes\build\Appendix.aux))
+ ***********
+LaTeX2e <2025-11-01>
+L3 programming layer <2025-10-24>
+ ***********
+
+
+LaTeX Warning: There were undefined references.
+
+Package rerunfilecheck Info: File `FSR_Notes.out' has not changed.
+(rerunfilecheck)             Checksum: BD130ED599032EC80379FFB56AC962D5;15825.
+
+Package biblatex Warning: Please (re)run Biber on the file:
+(biblatex)                FSR_Notes
+(biblatex)                and rerun LaTeX afterwards.
+
+Package logreq Info: Writing requests to 'FSR_Notes.run.xml'.
+\openout1 = `FSR_Notes.run.xml'.
+
+ ) 
+Here is how much of TeX's memory you used:
+ 32108 strings out of 467871
+ 623140 string characters out of 5418859
+ 1518549 words of memory out of 5000000
+ 60085 multiletter control sequences out of 15000+600000
+ 642408 words of font info for 93 fonts, out of 8000000 for 9000
+ 1141 hyphenation exceptions out of 8191
+ 84i,21n,104p,1110b,1291s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ <C:\Users\Acer\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\tcrm0
+800.pk> <C:\Users\Acer\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\
+tcrm1000.pk><C:/Users/Acer/AppData/Local/Programs/MiKTeX/fonts/type1/public/ams
+fonts/cm/cmbx10.pfb><C:/Users/Acer/AppData/Local/Programs/MiKTeX/fonts/type1/pu
+blic/amsfonts/cm/cmbx12.pfb><C:/Users/Acer/AppData/Local/Programs/MiKTeX/fonts/
+type1/public/amsfonts/cm/cmbx8.pfb><C:/Users/Acer/AppData/Local/Programs/MiKTeX
+/fonts/type1/public/amsfonts/cm/cmbxti10.pfb><C:/Users/Acer/AppData/Local/Progr
+ams/MiKTeX/fonts/type1/public/amsfonts/cm/cmex10.pfb><C:/Users/Acer/AppData/Loc
+al/Programs/MiKTeX/fonts/type1/public/amsfonts/cmextra/cmex8.pfb><C:/Users/Acer
+/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cmextra/cmex9.pfb><C
+:/Users/Acer/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi1
+0.pfb><C:/Users/Acer/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/
+cm/cmmi5.pfb><C:/Users/Acer/AppData/Local/Programs/MiKTeX/fonts/type1/public/am
+sfonts/cm/cmmi6.pfb><C:/Users/Acer/AppData/Local/Programs/MiKTeX/fonts/type1/pu
+blic/amsfonts/cm/cmmi7.pfb><C:/Users/Acer/AppData/Local/Programs/MiKTeX/fonts/t
+ype1/public/amsfonts/cm/cmmi8.pfb><C:/Users/Acer/AppData/Local/Programs/MiKTeX/
+fonts/type1/public/amsfonts/cm/cmmi9.pfb><C:/Users/Acer/AppData/Local/Programs/
+MiKTeX/fonts/type1/public/amsfonts/cm/cmr10.pfb><C:/Users/Acer/AppData/Local/Pr
+ograms/MiKTeX/fonts/type1/public/amsfonts/cm/cmr12.pfb><C:/Users/Acer/AppData/L
+ocal/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr17.pfb><C:/Users/Acer/Ap
+pData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr5.pfb><C:/Users/A
+cer/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr6.pfb><C:/U
+sers/Acer/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr7.pfb
+><C:/Users/Acer/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cm
+r8.pfb><C:/Users/Acer/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts
+/cm/cmr9.pfb><C:/Users/Acer/AppData/Local/Programs/MiKTeX/fonts/type1/public/am
+sfonts/cm/cmsl10.pfb><C:/Users/Acer/AppData/Local/Programs/MiKTeX/fonts/type1/p
+ublic/amsfonts/cm/cmsy10.pfb><C:/Users/Acer/AppData/Local/Programs/MiKTeX/fonts
+/type1/public/amsfonts/cm/cmsy5.pfb><C:/Users/Acer/AppData/Local/Programs/MiKTe
+X/fonts/type1/public/amsfonts/cm/cmsy6.pfb><C:/Users/Acer/AppData/Local/Program
+s/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy7.pfb><C:/Users/Acer/AppData/Local/
+Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy8.pfb><C:/Users/Acer/AppData
+/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy9.pfb><C:/Users/Acer/
+AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmti10.pfb><C:/Use
+rs/Acer/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmti8.pfb>
+<C:/Users/Acer/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/symbol
+s/msbm10.pfb>
+Output written on "C:\Users\Acer\OneDrive - Università di Napoli Federico II\U
+niversità\esami magistrale\Field and service\FSR_Notes\FSR_Notes\build\FSR_Not
+es.pdf" (93 pages, 3774460 bytes).
+PDF statistics:
+ 1438 PDF objects out of 1440 (max. 8388607)
+ 406 named destinations out of 1000 (max. 500000)
+ 931 words of extra memory for PDF output out of 10000 (max. 10000000)
+
